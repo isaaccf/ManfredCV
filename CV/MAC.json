@@ -1,0 +1,34 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Isaac",
+      "surnames": "Castro Fuentes",
+      "description": "Estudié en Santiago de Compostela el (ya antiguo) Ciclo Superior de Desarrollo de Aplicaciones Informáticas, con bastante acierto, y a pesar de tener la oportunidad de adentrarme en el mundo laboral opté por probar el Grado en Ingeniería Informática, en el cual también llegué a buen puerto y bastante satisfecho del trabajo. Durante el Grado hice las prácticas en una consultora llamada Bahía Software, en la que posteriomente me quedé durante casi tres años, haciendo mayormente Java (Spring+Hibernate) y algo de front con jQuery. Después estuve algo menos de un año en otra consultora llamada Dimensiona Consultoría Tecnolóxica, también con el mismo stack. En esta última también toqué brevemente algo de Xamarin. De esta me fui a mi actual trabajo, en SDG Group, de la mano de otro manfredita. Voy camino de tres años y mayormente he hecho desarrollos en VueJS y Java, haciendo integraciones con suites de BI (Qlik Sense y Tableau) y apoyando algún desarrollo en React, ya que últimamente estoy un poco más en la capa de gestión de los proyectos pequeños y no en la ejecución como tal, pero con ganas de seguir en las trincheras picando código. Tengo un pelín más de interés por el front que por el back, y el framework no es algo que me preocupe, no me cierro a ninguno. Es cierto que llevo un pequeño tiempo separado del día a día del código, y estoy en proceso de volver a el como sea, por lo que mi agilidad con un IDE no es la misma que la de hace año y medio.  También dentro de mi equipo soy un poco el referente en cuanto a tema de DevOps, ya que si bien no es algo muy usado en la empresa si intento pelear por integrar la cultura en los proyectos, de modo que en la medida de las posibilidades, intento aprender lo que puedo, aunque mi conocimiento es limitado."
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/isaacastro/"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/isaaccf"
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/isaacastro/"
+        }
+      ]
+    }
+  }
+}
