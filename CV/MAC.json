@@ -75,6 +75,33 @@
     "jobs": [
       {
         "organization": {
+          "name": "Creación integral e innovación"
+        },
+        "roles": [
+          {
+            "name": "Desarrollador web en prácticas",
+            "startDate": "2009-03-01",
+            "finishDate": "2009-05-01",
+            "challenges": [
+              {
+                "description": "Mantenimiento de plataforma de educación a distancia “Moodle”.\nCreación de landing page para nuevo producto."
+              }
+            ],
+            "competences": [
+              {
+                "name": "ASP.net",
+                "type": "technology"
+              },
+              {
+                "name": "Moodle",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Bahía Software",
           "image": {
             "alt": "Logo de Bahía Software",
@@ -134,32 +161,6 @@
               },
               {
                 "name": "Pentaho reporting",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Creación integral e innovación"
-        },
-        "roles": [
-          {
-            "name": "Formación en Centros de Trabajo",
-            "startDate": "2019-03-01",
-            "challenges": [
-              {
-                "description": "Mantenimiento de plataforma de educación a distancia “Moodle”."
-              }
-            ],
-            "competences": [
-              {
-                "name": "ASP.net",
-                "type": "technology"
-              },
-              {
-                "name": "Moodle",
                 "type": "technology"
               }
             ]
