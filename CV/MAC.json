@@ -720,7 +720,7 @@
           {
             "name": "Desarrollador web en prácticas",
             "startDate": "2009-03-01",
-            "finishDate": "2009-05-01",
+            "finishDate": "2009-06-30",
             "challenges": [
               {
                 "description": "Mantenimiento de plataforma de educación a distancia “Moodle”."
@@ -935,9 +935,16 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "Agile",
-          "type": "practice",
-          "description": "Gestión ágil"
+          "name": "Vue",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "Jira",
+          "type": "tool"
         }
       ],
       "preferredOrganizations": [
