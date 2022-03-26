@@ -131,101 +131,6 @@
       },
       {
         "organization": {
-          "name": "SDG Group",
-          "image": {
-            "alt": "Logo de SDG",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/26/abaf7e01-64a4-41d0-aaed-01fe1a3b284f_alkiduml_400x400.jpg"
-          },
-          "URL": "https://www.sdggroup.com/es"
-        },
-        "roles": [
-          {
-            "name": "Specialist",
-            "startDate": "2021-06-01",
-            "challenges": [
-              {
-                "description": "Team Lead de un equipo de 8 personas de diversa experiencia trabajando en tecnologías y clientes distintos."
-              }
-            ],
-            "competences": [
-              {
-                "name": "React",
-                "type": "technology"
-              },
-              {
-                "name": "Vue",
-                "type": "technology"
-              },
-              {
-                "name": "CSS",
-                "type": "technology"
-              },
-              {
-                "name": "AWS",
-                "type": "technology"
-              },
-              {
-                "name": "Jenkins",
-                "type": "technology"
-              },
-              {
-                "name": "Spring Boot",
-                "type": "technology"
-              },
-              {
-                "name": "Azure",
-                "type": "technology"
-              },
-              {
-                "name": "Git",
-                "type": "technology"
-              },
-              {
-                "name": "Github",
-                "type": "technology"
-              },
-              {
-                "name": "Bitbucket",
-                "type": "technology"
-              },
-              {
-                "name": "Tableau",
-                "type": "technology"
-              },
-              {
-                "name": "Google Sheets",
-                "type": "technology"
-              },
-              {
-                "name": "intellij-idea",
-                "type": "technology"
-              },
-              {
-                "name": "visual-studio-code",
-                "type": "technology"
-              },
-              {
-                "name": "Atlassian Confluence",
-                "type": "technology"
-              },
-              {
-                "name": "Atlassian JIRA",
-                "type": "technology"
-              },
-              {
-                "name": "GoogleDocs",
-                "type": "technology"
-              },
-              {
-                "name": "QlikSense",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Bahía Software",
           "image": {
             "alt": "Logo de Bahía Software",
@@ -333,6 +238,77 @@
               },
               {
                 "name": "Moodle",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "SDG Group",
+          "image": {
+            "alt": "Logo de SDG",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/26/abaf7e01-64a4-41d0-aaed-01fe1a3b284f_alkiduml_400x400.jpg"
+          },
+          "URL": "https://www.sdggroup.com/es"
+        },
+        "roles": [
+          {
+            "name": "Specialist",
+            "startDate": "2018-11-01",
+            "challenges": [
+              {
+                "description": "Team Lead de un equipo de 8 personas de diversa experiencia trabajando en tecnologías y clientes distintos."
+              }
+            ],
+            "competences": [
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              },
+              {
+                "name": "Azure",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
+                "name": "Bitbucket",
+                "type": "technology"
+              },
+              {
+                "name": "Tableau",
+                "type": "technology"
+              },
+              {
+                "name": "Google Sheets",
                 "type": "technology"
               }
             ]
