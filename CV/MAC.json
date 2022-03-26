@@ -852,6 +852,10 @@
         "institution": {
           "name": "CNTG",
           "description": "Centro de Novas Tecnoloxías de Galicia.",
+          "image": {
+            "alt": "logo de CSD",
+            "link": "https://scrumadventures.com/wp-content/uploads/2020/08/CSD_Logo_625_564_Clear.png"
+          },
           "location": {
             "country": "ES",
             "region": "Galicia",
