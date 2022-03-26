@@ -917,40 +917,40 @@
             }
           }
         ]
-      },
-      "preferences": {
-        "preferredCompetences": [
-          {
-            "name": "Agile",
-            "type": "practice",
-            "description": "Gestión ágil"
-          }
-        ],
-        "preferredOrganizations": [
-          "bigCorp",
-          "SME"
-        ],
-        "preferredRoles": [
-          "Software Engineer",
-          "Software Architect",
-          "Team lead"
-        ]
-      },
-      "goals": [
+      }
+    },
+    "preferences": {
+      "preferredCompetences": [
         {
-          "description": "Me gustaría trabajar en una compañía sin corsés de jerarquía anticuados, que tienda a la horizontalidad, sobre todo comunicativa, y que se escuche a todos."
-        },
-        {
-          "title": "Transparencia",
-          "description": "Es fundamental la transparencia corporativa, todos estamos en un mismo barco y las cosas se deben comunicar a todos, igual no al mismo tiempo, pero si a todo el mundo debe llegar el mismo mensaje. Incluso deben llegar las alternativas barajadas cuando se comunican decisiones, y los razonamientos empleados para llegar a las decisiones."
-        },
-        {
-          "description": "La empresa debe tener objetivos claros, e intentar conseguirlos, pero con los recursos de los que dispone. Si necesita más horas para cumplirlos debe contratar más gente, no forzar a las personas que tiene."
-        },
-        {
-          "description": "Una organización tiene que tener entre sus filas líderes, no jefes, o almenos no sólo jefes. El trabajo de líder debe ser asignado a quien dentro de la orgnización se le tenga como tal por la mayoría de la gente, y propiciará mejor ambiente y mejores resultados que el asignado por jerarquía."
+          "name": "Agile",
+          "type": "practice",
+          "description": "Gestión ágil"
         }
+      ],
+      "preferredOrganizations": [
+        "bigCorp",
+        "SME"
+      ],
+      "preferredRoles": [
+        "Software Engineer",
+        "Software Architect",
+        "Team lead"
       ]
-    }
+    },
+    "goals": [
+      {
+        "description": "Me gustaría trabajar en una compañía sin corsés de jerarquía anticuados, que tienda a la horizontalidad, sobre todo comunicativa, y que se escuche a todos."
+      },
+      {
+        "title": "Transparencia",
+        "description": "Es fundamental la transparencia corporativa, todos estamos en un mismo barco y las cosas se deben comunicar a todos, igual no al mismo tiempo, pero si a todo el mundo debe llegar el mismo mensaje. Incluso deben llegar las alternativas barajadas cuando se comunican decisiones, y los razonamientos empleados para llegar a las decisiones."
+      },
+      {
+        "description": "La empresa debe tener objetivos claros, e intentar conseguirlos, pero con los recursos de los que dispone. Si necesita más horas para cumplirlos debe contratar más gente, no forzar a las personas que tiene."
+      },
+      {
+        "description": "Una organización tiene que tener entre sus filas líderes, no jefes, o almenos no sólo jefes. El trabajo de líder debe ser asignado a quien dentro de la orgnización se le tenga como tal por la mayoría de la gente, y propiciará mejor ambiente y mejores resultados que el asignado por jerarquía."
+      }
+    ]
   }
 }
