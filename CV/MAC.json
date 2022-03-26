@@ -9,7 +9,10 @@
       "name": "Isaac",
       "surnames": "Castro Fuentes",
       "title": "Ingeniero de Software",
-      "description": "Estudié en Santiago de Compostela el (ya antiguo) Ciclo Superior de Desarrollo de Aplicaciones Informáticas, con bastante acierto, y a pesar de tener la oportunidad de adentrarme en el mundo laboral opté por probar el Grado en Ingeniería Informática, en el cual también llegué a buen puerto y bastante satisfecho del trabajo.\nDurante el Grado hice las prácticas en una consultora llamada Bahía Software, en la que posteriomente me quedé durante casi tres años, haciendo mayormente Java (Spring+Hibernate) y algo de front con jQuery. Después estuve algo menos de un año en otra consultora llamada Dimensiona Consultoría Tecnolóxica, también con el mismo stack. En esta última también toqué brevemente algo de Xamarin. De esta me fui a mi actual trabajo, en SDG Group, de la mano de otro manfredita. Voy camino de cuatro años y en la parte técnica he hecho desarrollos en VueJS y Java, haciendo integraciones con suites de BI (Qlik Sense y Tableau) y algún desarrollo en React. Tengo un pelín más de interés por el front que por el back, y el framework no es algo que me preocupe, no me cierro a ninguno.\nLlevo un tiempo realizando labores de gestión de personas y proyecto, y creo que estoy bastante bien considerado en la compañía. También dentro de mi equipo soy un poco el referente en cuanto a tema de DevOps, ya que si bien no es algo muy usado en la empresa si intento pelear por integrar la cultura en los proyectos, de modo que en la medida de las posibilidades, intento aprender lo que puedo, aunque mi conocimiento es limitado."
+      "description": "Estudié en Santiago de Compostela el (ya antiguo) Ciclo Superior de Desarrollo de Aplicaciones Informáticas, con bastante acierto, y a pesar de tener la oportunidad de adentrarme en el mundo laboral opté por probar el Grado en Ingeniería Informática, en el cual también llegué a buen puerto y bastante satisfecho del trabajo.\nDurante el Grado hice las prácticas en una consultora llamada Bahía Software, en la que posteriomente me quedé durante casi tres años, haciendo mayormente Java (Spring+Hibernate) y algo de front con jQuery. Después estuve algo menos de un año en otra consultora llamada Dimensiona Consultoría Tecnolóxica, también con el mismo stack. En esta última también toqué brevemente algo de Xamarin. De esta me fui a mi actual trabajo, en SDG Group, de la mano de otro manfredita. Voy camino de cuatro años y en la parte técnica he hecho desarrollos en VueJS y Java, haciendo integraciones con suites de BI (Qlik Sense y Tableau) y algún desarrollo en React. Tengo un pelín más de interés por el front que por el back, y el framework no es algo que me preocupe, no me cierro a ninguno.\nLlevo un tiempo realizando labores de team lead, y creo que estoy bastante bien considerado en la compañía. También estoy interesado en DevOps, ya que si bien no es algo muy usado en la empresa si intento pelear por integrar la cultura en los proyectos, de modo que en la medida de las posibilidades, intento aprender lo que puedo, aunque mi conocimiento es limitado.",
+      "location": {
+        "notes": "Santiago de Compostela"
+      }
     },
     "relevantLinks": [
       {
@@ -27,16 +30,16 @@
     ],
     "interestingFacts": [
       {
+        "topic": "El Planeador Mundo Maya",
         "fact": "Desarrollar como sideproject, junto a tres amigos, a petición de una empresa mexicana, el “Planeador Mundo Maya”, una herramienta web para la promoción del “Fin del mundo Maya” en 2012, con puntos de interés turístico y rutas entre ellos."
       },
       {
-        "fact": "Colaborar en la organización de un evento anual de un medio de comunicación público con más de 30000 asistentes, organizado con un director del medio y otro colaborador."
-      },
-      {
+        "topic": "CPETIG",
         "fact": "Ser vicepresidente del Colegio Profesional de Ingeniería en Informática de Galicia, organizando diversas actividades para la promoción de las nuevas tecnologías y formaciones"
       },
       {
-        "fact": "Establecer un forecast del equipo a mi cargo en una compañía con constantes paradas y arranques de proyectos y conseguir que se cumpla."
+        "topic": "El forecast del equipo",
+        "fact": "Establecer un forecast del equipo a mi cargo después de meses de intentos de que el responsable lo hiciese en una compañía con constantes paradas y arranques de proyectos y conseguir que se cumpla."
       },
       {
         "topic": "¿Cuáles son tus principales herramientas de trabajo (IDEs, editores de texto, clientes de correo, Excel...) y cómo las utilizas (plugins, configuraciones, trucos)?",
@@ -379,7 +382,53 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "agile",
+          "name": "Vue",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "React Native",
+          "type": "technology"
+        },
+        {
+          "name": "Jenkins",
+          "type": "technology"
+        },
+        {
+          "name": "SonarQube",
+          "type": "technology"
+        },
+        {
+          "name": "Jest",
+          "type": "technology"
+        },
+        {
+          "name": "Cypress",
+          "type": "technology"
+        },
+        {
+          "name": "JAVA",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "PHP",
+          "type": "technology"
+        },
+        {
+          "name": "Netbeans",
+          "type": "technology"
+        },
+        {
+          "name": "Eclipse",
           "type": "technology"
         }
       ]
