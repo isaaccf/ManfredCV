@@ -1,18 +1,16 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
-    "MACVersion": "0.3"
+    "language": "ES",
+    "MACVersion": "0.3",
+    "lastUpdate": "2022-03-26"
   },
   "aboutMe": {
     "profile": {
       "name": "Isaac",
       "surnames": "Castro Fuentes",
       "title": "Ingeniero de Software",
-      "description": "Estudié en Santiago de Compostela el (ya antiguo) Ciclo Superior de Desarrollo de Aplicaciones Informáticas, con bastante acierto, y a pesar de tener la oportunidad de adentrarme en el mundo laboral opté por probar el Grado en Ingeniería Informática, en el cual también llegué a buen puerto y bastante satisfecho del trabajo.\nDurante el Grado hice las prácticas en una consultora llamada Bahía Software, en la que posteriomente me quedé durante casi tres años, haciendo mayormente Java (Spring+Hibernate) y algo de front con jQuery. Después estuve algo menos de un año en otra consultora llamada Dimensiona Consultoría Tecnolóxica, también con el mismo stack. En esta última también toqué brevemente algo de Xamarin. De esta me fui a mi actual trabajo, en SDG Group, de la mano de otro manfredita. Voy camino de cuatro años y en la parte técnica he hecho desarrollos en VueJS y Java, haciendo integraciones con suites de BI (Qlik Sense y Tableau) y algún desarrollo en React. Tengo un pelín más de interés por el front que por el back, y el framework no es algo que me preocupe, no me cierro a ninguno.\nLlevo un tiempo realizando labores de gestión de personas y proyecto, y creo que estoy bastante bien considerado en la compañía. También dentro de mi equipo soy un poco el referente en cuanto a tema de DevOps, ya que si bien no es algo muy usado en la empresa si intento pelear por integrar la cultura en los proyectos, de modo que en la medida de las posibilidades, intento aprender lo que puedo, aunque mi conocimiento es limitado.",
-      "location": {
-        "notes": ""
-      }
+      "description": "Estudié en Santiago de Compostela el (ya antiguo) Ciclo Superior de Desarrollo de Aplicaciones Informáticas, con bastante acierto, y a pesar de tener la oportunidad de adentrarme en el mundo laboral opté por probar el Grado en Ingeniería Informática, en el cual también llegué a buen puerto y bastante satisfecho del trabajo.\nDurante el Grado hice las prácticas en una consultora llamada Bahía Software, en la que posteriomente me quedé durante casi tres años, haciendo mayormente Java (Spring+Hibernate) y algo de front con jQuery. Después estuve algo menos de un año en otra consultora llamada Dimensiona Consultoría Tecnolóxica, también con el mismo stack. En esta última también toqué brevemente algo de Xamarin. De esta me fui a mi actual trabajo, en SDG Group, de la mano de otro manfredita. Voy camino de cuatro años y en la parte técnica he hecho desarrollos en VueJS y Java, haciendo integraciones con suites de BI (Qlik Sense y Tableau) y algún desarrollo en React. Tengo un pelín más de interés por el front que por el back, y el framework no es algo que me preocupe, no me cierro a ninguno.\nLlevo un tiempo realizando labores de gestión de personas y proyecto, y creo que estoy bastante bien considerado en la compañía. También dentro de mi equipo soy un poco el referente en cuanto a tema de DevOps, ya que si bien no es algo muy usado en la empresa si intento pelear por integrar la cultura en los proyectos, de modo que en la medida de las posibilidades, intento aprender lo que puedo, aunque mi conocimiento es limitado."
     },
     "relevantLinks": [
       {
@@ -20,119 +18,245 @@
         "URL": "https://www.linkedin.com/in/isaacastro/"
       },
       {
-        "type": "github",
-        "URL": "https://github.com/isaaccf"
-      },
-      {
         "type": "twitter",
         "URL": "https://twitter.com/isaaccf"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/isaaccf"
       }
     ],
-    "interestingFacts": [
-      {
-        "topic": "¿Cuáles son tus principales herramientas de trabajo (IDEs, editores de texto, clientes de correo, Excel...) y cómo las utilizas (plugins, configuraciones, trucos)?",
-        "fact": "Intellij IDEA es mi IDE para desarrollos Java, y me gusta la configuración por defecto, únicamente un par de atajos de teclado que suelo cambiar.\nPara otro tipo de desarrollos como web soy más partidario de Visual Studio Code, al que me gusta tenerle instalados plugins para resaltado de sintaxis de Vue o React, así como plugins para linting. También me he acostumbrado a una fuente específica para el desarollo ([FiraCode](https://github.com/tonsky/FiraCode)), que tiene caracteres más bonitos. Siempre tengo todas las configuraciones sincronizadas con Github. Además de esto el Live Share me parece muy útil para poder trabajar en remoto con compañeros.\nOtra herramienta de cabecera es Postman, para testear o, directamente, consultar APIs REST.\nMe gusta Fork  para la gestión de repositorios pero también uso bastante las integraciones de los IDE, especialmente en Visual Studio Code.\nUtilizo Jira mayormente para la gestión del trabajo y procuro (si bien no siempre lo consigo) tener todos los emails etiquetados y priorizados.\nAdemás, el omnipresente Excel (o Google Sheet) es la herramienta para el forecast del equipo, y en el que me paso alguna que otra hora."
-      },
-      {
-        "topic": "¿Qué recursos online (webs, blogs, apps, foros, etc) usas para ayudarte a desempeñar tu trabajo?",
-        "fact": "Sobre todo uso Twitter para estar al día, donde salen habitualmente los artículos que tendría en mi feed RSS.\nLos problemas técnicos “comunes”, aquellos de lenguajes habituales, suelo acabar en Stackoverflow pero los más específicos, de plataformas como QlikSense o similares, lo habitual es que acabe en foros específicos.\nÚltimamente formo parte de un equipo que trabaja con tecnologías específicas de un banco, que tienen su propio ecosistema, y me entero de sus novedades mediante sus canales."
-      },
-      {
-        "topic": "¿Qué nuevas tecnologías y/o herramientas te llaman especialmente la atención y por qué?",
-        "fact": "En general el mundo DevOps contiene muchos conceptos que me gustaría explorar como modo de dar soporte al desarrollo de sofware. Me llama la atención el mundo Infraestructure as Code, me gustaría ir conociendo poco a poco algo más de este concepto y su aplicación para proyectos más pequeños de lo que estoy acostumbrado a ver.\nEn tecnología más de desarrollo siento curiosidad por los proyectos que con un único lenguaje/framework son capaces de construír toda la arquitectura, por ejemplo NextJS como backend y ReactJS como frontend."
-      },
-      {
-        "topic": "¿Hay alguna empresa tecnológica que te llame la atención por lo bien que lo está haciendo?",
-        "fact": "Hace un tiempo diría que Amazon, con su AWS, pero creo que la propuesta de Microsoft aporta bastante más valor, por lo menos en términos de eficiencia de uso. Me gusta mucho el giro que ha dado para acercarse a la comunidad y los recursos que pone a disposición (obviamente con sus intereses empresariales)"
-      },
-      {
-        "topic": "¿Cómo intentas mantener actualizados tus conocimientos y habilidades profesionales?",
-        "fact": "Mayormente con side projects, bien para aprender (típico programita chorra de cuatro líneas para probar algo nuevo) o bien porque alguien necesita algo para resolver un problema y aprovecho para proponer la solución con algo nuevo que me apetezca probar y encaje. Me gustaría leer más artículos que traten temas en profundidad y no quedarse en los tweets pero se me hace complicado encontrar tiempo."
-      },
-      {
-        "topic": "¿Sueles compartir tu conocimiento por algún canal (posts, foros, contribución a open source, charlas públicas etc)?",
-        "fact": "No tengo por costumbre ser parte visible compartiendo cosas, siempre creo que lo que yo sé está público por ahí y poco puedo aportar."
-      },
-      {
-        "topic": "¿Hay alguna tarea o función que hayas realizado a lo largo de tu carrera profesional de la que te sientas especialmente orgulloso?",
-        "fact": "No hay nada que me encaje en “especialmente orgulloso”, tiendo a encontrar defectos en todo lo que hago en el ámbito profesional que impiden que me encaje en el orgullo, pero si tuviese que buscar algo… visto en perspectiva, cuando era un programador raso en una empresa me encargaron probar una librería gratuíta OCR, yo les intentaba convencer por todos los medios que era mala idea y que mucho mejor optar por las APIs de Microsoft/Google y no me quisieron escuchar… pero años después cuando el producto salió a la luz salió con mi solución.\nAdemás también creo que he conseguido ser un referente en mi actual empresa para mis compañeros, cuando mi jefe por aquel momento estuvo de baja por paternidad me tocó hacer sus labores de gestión de equipo y, a pesar de ser una época de mucho estrés y trabajo conseguimos salir adelante sin que el equipo desapareciese. Más adelante se fué y me quede a cargo del equipo de un modo más formal y creo que lo estoy haciendo razonablemente bien, por lo que me transmiten otros compañeros."
-      },
-      {
-        "topic": "¿Hay alguna tarea o función que hayas realizado a lo largo de tu carrera profesional que te hubiera gustado hacer de otra manera?",
-        "fact": "Muchas, pero recuerdo especialmente un trabajo para el que un profesor de universidad nos “contrató” a cuatro amigos y que pequé de muchísima inexperiencia gestionándolo, provocando un estrés en los compañeros y en mi mismo que no debería haber pasado. Fueron un par de meses muy duros y creo que en gran parte por mi incapacidad para gestionar aquello."
-      },
-      {
-        "topic": "¿Qué cualidades y conocimientos crees que debe tener un buen profesional en tu puesto?",
-        "fact": "Asertividad, básico para poder gestionar hasta donde puedes llegar en el trabajo que te pidan, y honestidad para crear confianza en tu equipo. En cuanto a conocimientos pues es mucho más variable del trabajo del día a día, pero una base de ingeniería de software es básica para construirlo desde cualquier perspectiva."
-      },
-      {
-        "topic": "¿Qué habilidades y valores crees que debería tener un buen líder?",
-        "fact": "Además de demostrar que se preocupa por el equipo y que lo antepondrá a las presiones externas, la empatía para entender a sus compañeros debe ser máxima, y una visión estratégica también."
-      }
-    ]
+    "significativeRelationships": [
+        {
+          "name": "Silvia",
+          "surnames": "Piñeiro",
+          "title": "Ingeniera de Software en SDG Group",
+          "description": "Siempre sabe algo de CSS nuevo y además, me da una visión desde el punto de vista más realista de las cosas.",
+          "contact": {
+            "publicProfiles": [
+              {
+                "type": "linkedin",
+                "URL": "https://www.linkedin.com/in/silvia-pi%C3%B1eiro-fern%C3%A1ndez-b25178aa/"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Fernando",
+          "surnames": "Blanco",
+          "title": "Ingeniero de Software y entrepeneur por naturaleza",
+          "description": "Siempre conoce tecnologías nuevas y está dipuesto a embarcarse en aventuras.",
+          "contact": {
+            "publicProfiles": [
+              {
+                "type": "linkedin",
+                "URL": "https://www.linkedin.com/in/fernandoblancodosil/"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Mía",
+          "surnames": "Illodo",
+          "title": "Arquitecta de software",
+          "description": "Es el referente técnico para crear software robusto con arquitecturas y tecnologías modernas.",
+          "contact": {
+            "publicProfiles": [
+              {
+                "type": "linkedin",
+                "URL": "https://www.linkedin.com/in/rubenillodobrea/"
+              }
+            ]
+          }
+        }
+      ],
+      "interestingFacts": [
+        {
+          "fact": "Desarrollar como sideproject, junto a tres amigos, a petición de una empresa mexicana, el “Planeador Mundo Maya”, una herramienta web para la promoción del “Fin del mundo Maya” en 2012, con puntos de interés turístico y rutas entre ellos."
+        },
+        {
+          "fact": "Colaborar en la organización de un evento anual de un medio de comunicación público con más de 30000 asistentes, organizado con un director del medio y otro colaborador."
+        },
+        {
+          "fact": "Ser vicepresidente del Colegio Profesional de Ingeniería en Informática de Galicia, organizando diversas actividades para la promoción de las nuevas tecnologías y formaciones"
+        },
+        {
+          "fact": "Establecer un forecast del equipo a mi cargo en una compañía con constantes paradas y arranques de proyectos y conseguir que se cumpla."
+        },
+        {
+          "topic": "¿Cuáles son tus principales herramientas de trabajo (IDEs, editores de texto, clientes de correo, Excel...) y cómo las utilizas (plugins, configuraciones, trucos)?",
+          "fact": "Intellij IDEA es mi IDE para desarrollos Java, y me gusta la configuración por defecto, únicamente un par de atajos de teclado que suelo cambiar.\nPara otro tipo de desarrollos como web soy más partidario de Visual Studio Code, al que me gusta tenerle instalados plugins para resaltado de sintaxis de Vue o React, así como plugins para linting. También me he acostumbrado a una fuente específica para el desarollo ([FiraCode](https://github.com/tonsky/FiraCode)), que tiene caracteres más bonitos. Siempre tengo todas las configuraciones sincronizadas con Github. Además de esto el Live Share me parece muy útil para poder trabajar en remoto con compañeros.\nOtra herramienta de cabecera es Postman, para testear o, directamente, consultar APIs REST.\nMe gusta Fork  para la gestión de repositorios pero también uso bastante las integraciones de los IDE, especialmente en Visual Studio Code.\nUtilizo Jira mayormente para la gestión del trabajo y procuro (si bien no siempre lo consigo) tener todos los emails etiquetados y priorizados.\nAdemás, el omnipresente Excel (o Google Sheet) es la herramienta para el forecast del equipo, y en el que me paso alguna que otra hora."
+        },
+        {
+          "topic": "¿Qué recursos online (webs, blogs, apps, foros, etc) usas para ayudarte a desempeñar tu trabajo?",
+          "fact": "Sobre todo uso Twitter para estar al día, donde salen habitualmente los artículos que tendría en mi feed RSS.\nLos problemas técnicos “comunes”, aquellos de lenguajes habituales, suelo acabar en Stackoverflow pero los más específicos, de plataformas como QlikSense o similares, lo habitual es que acabe en foros específicos.\nÚltimamente formo parte de un equipo que trabaja con tecnologías específicas de un banco, que tienen su propio ecosistema, y me entero de sus novedades mediante sus canales."
+        },
+        {
+          "topic": "¿Qué nuevas tecnologías y/o herramientas te llaman especialmente la atención y por qué?",
+          "fact": "En general el mundo DevOps contiene muchos conceptos que me gustaría explorar como modo de dar soporte al desarrollo de sofware. Me llama la atención el mundo Infraestructure as Code, me gustaría ir conociendo poco a poco algo más de este concepto y su aplicación para proyectos más pequeños de lo que estoy acostumbrado a ver.\nEn tecnología más de desarrollo siento curiosidad por los proyectos que con un único lenguaje/framework son capaces de construír toda la arquitectura, por ejemplo NextJS como backend y ReactJS como frontend."
+        },
+        {
+          "topic": "¿Hay alguna empresa tecnológica que te llame la atención por lo bien que lo está haciendo?",
+          "fact": "Hace un tiempo diría que Amazon, con su AWS, pero creo que la propuesta de Microsoft aporta bastante más valor, por lo menos en términos de eficiencia de uso. Me gusta mucho el giro que ha dado para acercarse a la comunidad y los recursos que pone a disposición (obviamente con sus intereses empresariales)"
+        },
+        {
+          "topic": "¿Cómo intentas mantener actualizados tus conocimientos y habilidades profesionales?",
+          "fact": "Mayormente con side projects, bien para aprender (típico programita chorra de cuatro líneas para probar algo nuevo) o bien porque alguien necesita algo para resolver un problema y aprovecho para proponer la solución con algo nuevo que me apetezca probar y encaje. Me gustaría leer más artículos que traten temas en profundidad y no quedarse en los tweets pero se me hace complicado encontrar tiempo."
+        },
+        {
+          "topic": "¿Sueles compartir tu conocimiento por algún canal (posts, foros, contribución a open source, charlas públicas etc)?",
+          "fact": "No tengo por costumbre ser parte visible compartiendo cosas, siempre creo que lo que yo sé está público por ahí y poco puedo aportar."
+        },
+        {
+          "topic": "¿Hay alguna tarea o función que hayas realizado a lo largo de tu carrera profesional de la que te sientas especialmente orgulloso?",
+          "fact": "No hay nada que me encaje en “especialmente orgulloso”, tiendo a encontrar defectos en todo lo que hago en el ámbito profesional que impiden que me encaje en el orgullo, pero si tuviese que buscar algo… visto en perspectiva, cuando era un programador raso en una empresa me encargaron probar una librería gratuíta OCR, yo les intentaba convencer por todos los medios que era mala idea y que mucho mejor optar por las APIs de Microsoft/Google y no me quisieron escuchar… pero años después cuando el producto salió a la luz salió con mi solución.\nAdemás también creo que he conseguido ser un referente en mi actual empresa para mis compañeros, cuando mi jefe por aquel momento estuvo de baja por paternidad me tocó hacer sus labores de gestión de equipo y, a pesar de ser una época de mucho estrés y trabajo conseguimos salir adelante sin que el equipo desapareciese. Más adelante se fué y me quede a cargo del equipo de un modo más formal y creo que lo estoy haciendo razonablemente bien, por lo que me transmiten otros compañeros."
+        },
+        {
+          "topic": "¿Hay alguna tarea o función que hayas realizado a lo largo de tu carrera profesional que te hubiera gustado hacer de otra manera?",
+          "fact": "Muchas, pero recuerdo especialmente un trabajo para el que un profesor de universidad nos “contrató” a cuatro amigos y que pequé de muchísima inexperiencia gestionándolo, provocando un estrés en los compañeros y en mi mismo que no debería haber pasado. Fueron un par de meses muy duros y creo que en gran parte por mi incapacidad para gestionar aquello."
+        },
+        {
+          "topic": "¿Qué cualidades y conocimientos crees que debe tener un buen profesional en tu puesto?",
+          "fact": "Asertividad, básico para poder gestionar hasta donde puedes llegar en el trabajo que te pidan, y honestidad para crear confianza en tu equipo. En cuanto a conocimientos pues es mucho más variable del trabajo del día a día, pero una base de ingeniería de software es básica para construirlo desde cualquier perspectiva."
+        },
+        {
+          "topic": "¿Qué habilidades y valores crees que debería tener un buen líder?",
+          "fact": "Además de demostrar que se preocupa por el equipo y que lo antepondrá a las presiones externas, la empatía para entender a sus compañeros debe ser máxima, y una visión estratégica también."
+        }
+      ]
   },
   "experience": {
     "jobs": [
       {
         "organization": {
-          "name": "Creación integral e innovación"
-        },
-        "roles": [
-          {
-            "name": "Desarrollador web en prácticas",
-            "startDate": "2009-03-01",
-            "finishDate": "2009-05-01",
-            "challenges": [
-              {
-                "description": "Mantenimiento de plataforma de educación a distancia “Moodle”.\nCreación de landing page para nuevo producto."
-              }
-            ],
-            "competences": [
-              {
-                "name": "ASP.net",
-                "type": "technology"
-              },
-              {
-                "name": "Moodle",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Bahía Software",
+          "name": "SDG Group",
+          "description": "Consultoría data-oriented con departamento de desarrollo de software propio.",
+          "URL": "https://www.sdggroup.com/es",
           "image": {
-            "alt": "Logo de Bahía Software",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/26/08441341-50d7-4c89-960c-c6c4f103dc7d_1594281695_yd24.png"
+            "alt": "Logo de SDG",
+            "link": "https://pbs.twimg.com/profile_images/986276982693531654/ALKIdUml_400x400.jpg"
           },
-          "URL": "https://bahiasoftware.es/home/"
+          "location": {
+            "country": "ES",
+            "region": "Galicia",
+            "municipality": "Santiago de Compostela",
+            "postalCode": "15701",
+            "address": "Travesa da Poza, 4"
+          }
         },
+        "type": "bigCorp",
         "roles": [
           {
-            "name": "Desarrollador web",
-            "startDate": "2015-03-01",
+            "name": "Specialist",
+            "startDate": "2021-06-01",
             "challenges": [
               {
-                "description": "Desarrollo del portal para la gestión del Programa Gallego de Detección Precoz de Cáncer de Colon."
+                "description": "Team Lead de un equipo de 8 personas de diversa experiencia trabajando en tecnologías y clientes distintos.",
+                "actions": [
+                  "Planificación del forecast del equipo",
+                  "Evaluaciones de desempeño de cada miembro",
+                  "Elaboración de planes de carrera personalizados",
+                  "Propuesta de formaciones"
+                ]
+              },
+              {
+                "description": "Puesta en marcha de proyectos en un gran cliente con tecnologías no empleadas por el equipo.",
+                "actions": [
+                  "Mentoring de los miembros del equipo en las tecnologías.",
+                  "Gestión de las expectativas del cliente en cuanto a entregas.",
+                  "Gestión de los errores provocados por arquitecturas de sistemas poco maduros en el cliente"
+                ]
+              },
+              {
+                "description": "Participación en un producto interno para la generación de cuadros de mando.",
+                "actions": [
+                  "Detección de necesidades en la generación de cuadros de mando.",
+                  "Definición de primer roadmap.",
+                  "Desarrollo de funcionalidades",
+                  "Validación de la implementación de funcionalidades."
+                ]
+              },
+              {
+                "description": "Implantación de la cultura de integración continua y despliegue continuo en el equipo"
+              },
+              {
+                "description": "Coordinación con otras áreas de la empresa para toma de requisitos, implantaciones en cliente, generación de documentación."
+              },
+              {
+                "description": "Diseño de arquitecturas software."
+              },
+              {
+                "description": "Búsqueda de talento .",
+                "actions": [
+                  "Realización de entrevistas",
+                  "Elaboración de pruebas técnicas",
+                  "Validación de pruebas técnicas"
+                ]
+              },
+              {
+                "description": "Apertura de nueva oficina de la compañía en Santiago de Compostela.",
+                "actions": [
+                  "Atención de proveedores",
+                  "Gestión del mantenimiento de la oficina",
+                  "Negociación con los profesionales de cada área como decoración, electricidad, fontanería..."
+                ]
               }
             ],
             "competences": [
               {
-                "name": "Spring",
-                "type": "technology"
+                "name": "Atlassian Confluence",
+                "type": "tool"
               },
               {
-                "name": "CSS",
-                "type": "technology"
+                "name": "Atlassian JIRA",
+                "type": "tool"
               },
               {
-                "name": "jQuery",
-                "type": "technology"
+                "name": "GitHub",
+                "type": "tool"
               },
               {
-                "name": "Jira",
+                "name": "BitBucket",
+                "type": "tool"
+              },
+              {
+                "name": "AWS",
+                "type": "tool"
+              },
+              {
+                "name": "Azure",
+                "type": "tool"
+              },
+              {
+                "name": "GoogleDocs",
+                "type": "tool"
+              },
+              {
+                "name": "GoogleSheets",
+                "type": "tool"
+              },
+              {
+                "name": "VisualStudio Code",
+                "type": "tool"
+              },
+              {
+                "name": "IntelliJ Idea",
+                "type": "tool"
+              },
+              {
+                "name": "Jenkins",
+                "type": "tool"
+              },
+              {
+                "name": "QlikSense",
+                "type": "tool"
+              },
+              {
+                "name": "Tableau",
+                "type": "tool"
+              },
+              {
+                "name": "React",
                 "type": "technology"
               },
               {
@@ -140,49 +264,248 @@
                 "type": "technology"
               },
               {
-                "name": "Struts",
+                "name": "VueJS",
                 "type": "technology"
               },
               {
-                "name": "LifeRay",
+                "name": "CSS",
                 "type": "technology"
               },
               {
-                "name": "Netbeans",
-                "type": "technology"
-              },
-              {
-                "name": "intellij-idea",
-                "type": "technology"
-              },
-              {
-                "name": "OracleDB",
-                "type": "technology"
-              },
-              {
-                "name": "Pentaho reporting",
+                "name": "SpringBoot",
                 "type": "technology"
               }
+            ],
+            "referrals": [
+              {
+                "name": "Antonio",
+                "surnames": "Torrado",
+                "title": "Socio de la compañía",
+                "contact": {
+                  "publicProfiles": [
+                    {
+                      "type": "linkedin",
+                      "URL": "https://www.linkedin.com/in/antoniotorrado/"
+                    }
+                  ],
+                  "contactMails": [
+                    "antonio.torrado@sdggroup.com"
+                  ]
+                }
+              },
+              {
+                "name": "Silvia",
+                "surnames": "Piñeiro",
+                "title": "Software Engineer en la compañía",
+                "contact": {
+                  "publicProfiles": [
+                    {
+                      "type": "linkedin",
+                      "URL": "https://www.linkedin.com/in/silvia-pi%C3%B1eiro-fern%C3%A1ndez-b25178aa//"
+                    }
+                  ],
+                  "contactMails": [
+                    "silvia.pineiro@sdggroup.com"
+                  ]
+                }
+              }
             ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Universidade de Santiago de Compostela",
-          "image": {
-            "alt": "Logo de USC",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/26/c46f23d7-2baa-4a8f-bc01-fc42722d0e21_logo.svg"
           },
-          "URL": "https://usc.es/"
-        },
-        "roles": [
           {
-            "name": "Mantenimiento de aulas de informática",
-            "startDate": "2010-10-01",
+            "name": "Senior Developer",
+            "startDate": "2020-06-01",
+            "endDate": "2021-06-01",
             "challenges": [
               {
-                "description": "Soporte a los técnicos de las Aulas de Informática de la USC para el mantenimiento de los equipos."
+                "description": "Soporte a junior developers.",
+                "actions": [
+                  "Onboarding de nuevas personas en el equipo.",
+                  "Trapaso de conocimientos de proyectos."
+                ]
+              },
+              {
+                "description": "Tomas de requisitos."
+              },
+              {
+                "description": "Desarrollo de proyectos.",
+                "actions": [
+                  "Estimación de esfuerzos de desarrollo.",
+                  "Codificación de soluciones.",
+                  "Despliegues.",
+                  "Testing."
+                ]
+              }
+            ],
+            "competences": [
+              {
+                "name": "Atlassian Confluence",
+                "type": "tool"
+              },
+              {
+                "name": "Atlassian JIRA",
+                "type": "tool"
+              },
+              {
+                "name": "BitBucket",
+                "type": "tool"
+              },
+              {
+                "name": "AWS",
+                "type": "tool"
+              },
+              {
+                "name": "VisualStudio Code",
+                "type": "tool"
+              },
+              {
+                "name": "IntelliJ Idea",
+                "type": "tool"
+              },
+              {
+                "name": "QlikSense",
+                "type": "tool"
+              },
+              {
+                "name": "Tableau",
+                "type": "tool"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "VueJS",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "SpringBoot",
+                "type": "technology"
+              }
+            ],
+            "referrals": [
+              {
+                "name": "Fernando Blanco",
+                "surnames": "Torrado",
+                "title": "Responsable del equipo",
+                "contact": {
+                  "publicProfiles": [
+                    {
+                      "type": "linkedin",
+                      "URL": "https://www.linkedin.com/in/fernandoblancodosil/"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Miguel",
+                "surnames": "Paniagua",
+                "title": "Software Engineer en la compañía",
+                "contact": {
+                  "publicProfiles": [
+                    {
+                      "type": "linkedin",
+                      "URL": "https://www.linkedin.com/in/miguel-paniagua-fern%C3%A1ndez-70a84655/"
+                    }
+                  ],
+                  "contactMails": [
+                    "miguel.paniagua@sdggroup.com"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "name": "Developer",
+            "startDate": "2018-11-18",
+            "finishDate": "2020-06-01",
+            "challenges": [
+              {
+                "description": "Desarrollo de proyectos."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Atlassian Confluence",
+                "type": "tool"
+              },
+              {
+                "name": "Atlassian JIRA",
+                "type": "tool"
+              },
+              {
+                "name": "BitBucket",
+                "type": "tool"
+              },
+              {
+                "name": "AWS",
+                "type": "tool"
+              },
+              {
+                "name": "VisualStudio Code",
+                "type": "tool"
+              },
+              {
+                "name": "QlikSense",
+                "type": "tool"
+              },
+              {
+                "name": "Tableau",
+                "type": "tool"
+              },
+              {
+                "name": "IntelliJ Idea",
+                "type": "tool"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "VueJS",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "SpringBoot",
+                "type": "technology"
+              }
+            ],
+            "referrals": [
+              {
+                "name": "Fernando Blanco",
+                "surnames": "Torrado",
+                "title": "Responsable del equipo",
+                "contact": {
+                  "publicProfiles": [
+                    {
+                      "type": "linkedin",
+                      "URL": "https://www.linkedin.com/in/fernandoblancodosil/"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Miguel",
+                "surnames": "Paniagua",
+                "title": "Software Engineer en la compañía",
+                "contact": {
+                  "publicProfiles": [
+                    {
+                      "type": "linkedin",
+                      "URL": "https://www.linkedin.com/in/miguel-paniagua-fern%C3%A1ndez-70a84655/"
+                    }
+                  ],
+                  "contactMails": [
+                    "miguel.paniagua@sdggroup.com"
+                  ]
+                }
               }
             ]
           }
@@ -191,25 +514,55 @@
       {
         "organization": {
           "name": "Dimensiona Consultoría Tecnolóxica ",
+          "description": "Consultora de software.",
+          "URL": "https://www.dimensiona.com/",
           "image": {
             "alt": "Logo de Dimensiona",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/26/b22e6365-d3cf-4dd4-bdd9-2b9ee2970b4b_imagotipo-dimensiona.svg"
+            "link": "https://www.dimensiona.com/wp-content/uploads/2020/07/imagotipo-dimensiona-90px.svg"
           },
-          "URL": "https://www.dimensiona.com/"
+          "location": {
+            "country": "ES",
+            "region": "Galicia",
+            "municipality": "Santiago de Compostela",
+            "postalCode": "15707",
+            "address": "Praza de Europa 10A, planta 5"
+          }
         },
+        "type": "SME",
         "roles": [
           {
             "name": "Desarrollador web",
             "startDate": "2018-02-01",
+            "finishDate": "2018-11-01",
             "challenges": [
               {
-                "description": "Desarrollo de funcionalidades para el portal de clientes de una compañía de telecomunicaciones."
+                "description": "Desarrollo de funcionalidades para el portal de clientes de una compañía de telecomunicaciones.",
+                "actions": [
+                  "Análisis de requisitos del cliente",
+                  "Desarrollo de los requisitos",
+                  "Generación de entregables"
+                ]
+              },
+              {
+                "description": "Desarrollo de funcionalidades para aplicaciones móviles para la gestión de infraestructuras ferroviarias en Argentina.",
+                "actions": [
+                  "Desarrollo de los requisitos",
+                  "Formación a técnicos para continuar el proyecto"
+                ]
               }
             ],
             "competences": [
               {
-                "name": "CSS",
-                "type": "technology"
+                "name": "MantisBT",
+                "type": "tool"
+              },
+              {
+                "name": "Subversion",
+                "type": "tool"
+              },
+              {
+                "name": "NetBeans",
+                "type": "tool"
               },
               {
                 "name": "jQuery",
@@ -220,15 +573,7 @@
                 "type": "technology"
               },
               {
-                "name": "Netbeans",
-                "type": "technology"
-              },
-              {
-                "name": "Subversion",
-                "type": "technology"
-              },
-              {
-                "name": "MantisBT",
+                "name": "CSS",
                 "type": "technology"
               }
             ]
@@ -237,94 +582,158 @@
       },
       {
         "organization": {
-          "name": "SDG Group",
+          "name": "Bahía Software",
+          "description": "Consultora de software",
+          "URL": "https://bahiasoftware.es/home/",
           "image": {
-            "alt": "Logo de SDG",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/26/ede75ca3-f88e-46d8-83f3-e115cfd08057_alkiduml_400x400.jpg"
+            "alt": "Logo de Bahía Software",
+            "link": "https://bahiasoftware.es/fotos/1594281695_yD24.png"
           },
-          "URL": "https://www.sdggroup.com/es"
+          "location": {
+            "country": "ES",
+            "region": "Galicia",
+            "municipality": "Milladoiro (Ames)",
+            "postalCode": "15707",
+            "address": "Rúa das Hedras 4, Local 1"
+          }
         },
+        "type": "bigCorp",
         "roles": [
           {
-            "name": "Specialist",
-            "startDate": "2021-06-01",
+            "name": "Desarrollador web",
+            "startDate": "2015-03-01",
+            "finishDate": "2018-02-01",
             "challenges": [
               {
-                "description": "Team Lead de un equipo de 8 personas de diversa experiencia trabajando en tecnologías y clientes distintos."
+                "description": "Desarrollo del portal para la gestión del Programa Gallego de Detección Precoz de Cáncer de Colon."
+              },
+              {
+                "description": "Desarrollo de funcionalidades para el portal de gestión de Anatomía Patológica del Servizo Galego de Saúde."
+              },
+              {
+                "description": "Corrección de bugs y nuevos desarrollos del portal web de la Sociedad Española de Anatomía Patológica."
               }
             ],
             "competences": [
               {
-                "name": "React",
+                "name": "Jira",
+                "type": "tool"
+              },
+              {
+                "name": "Git",
+                "type": "tool"
+              },
+              {
+                "name": "NetBeans",
+                "type": "tool"
+              },
+              {
+                "name": "IntelliJ Idea",
+                "type": "tool"
+              },
+              {
+                "name": "jQuery",
                 "type": "technology"
               },
               {
-                "name": "Vue",
+                "name": "Struts",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              },
+              {
+                "name": "OracleDB",
+                "type": "technology"
+              },
+              {
+                "name": "Pentaho reporting",
+                "type": "technology"
+              },
+              {
+                "name": "Liferay",
                 "type": "technology"
               },
               {
                 "name": "CSS",
                 "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Universidade de Santiago de Compostela",
+          "description": "Universidad pública",
+          "URL": "https://usc.es/",
+          "image": {
+            "alt": "Logo de USC",
+            "link": "https://pro-assets-usc.azureedge.net/cdn/ff/EHM8zctcvgly04lJNuVhK9VdqDepD2xFgACXw8Oszrg/1645011454/:relative:/themes/custom/usc_theme/logo.svg"
+          },
+          "location": {
+            "country": "ES",
+            "region": "Galicia",
+            "municipality": "Santiago de Compostela",
+            "postalCode": "15701",
+            "address": "Praza do Obradoiro"
+          }
+        },
+        "type": "academicalInstitution",
+        "roles": [
+          {
+            "name": "Mantenimiento de aulas de informática",
+            "startDate": "2010-10-01",
+            "finishDate": "2014-06-01",
+            "challenges": [
+              {
+                "description": "Soporte a los técnicos de las Aulas de Informática de la USC para el mantenimiento de los equipos."
               },
               {
-                "name": "AWS",
-                "type": "technology"
+                "description": "Soporte a usuarios de las aulas para tareas ofimáticas."
               },
               {
-                "name": "Jenkins",
-                "type": "technology"
+                "description": "Soporte a docentes."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Creación integral e innovación",
+          "description": "Empresa de desarrollo personal",
+          "location": {
+            "country": "ES",
+            "region": "Galicia",
+            "municipality": "Santiago de Compostela",
+            "postalCode": "15701",
+            "address": "Santiago de Chile 13"
+          }
+        },
+        "type": "SME",
+        "roles": [
+          {
+            "name": "Desarrollador web en prácticas",
+            "startDate": "2009-03-01",
+            "finishDate": "2009-05-01",
+            "challenges": [
+              {
+                "description": "Mantenimiento de plataforma de educación a distancia “Moodle”."
               },
               {
-                "name": "Spring Boot",
-                "type": "technology"
+                "description": "Desarrollo de landing page para un producto."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Moodle",
+                "type": "tool"
               },
               {
-                "name": "Azure",
-                "type": "technology"
-              },
-              {
-                "name": "Git",
-                "type": "technology"
-              },
-              {
-                "name": "Github",
-                "type": "technology"
-              },
-              {
-                "name": "Bitbucket",
-                "type": "technology"
-              },
-              {
-                "name": "Tableau",
-                "type": "technology"
-              },
-              {
-                "name": "Google Sheets",
-                "type": "technology"
-              },
-              {
-                "name": "intellij-idea",
-                "type": "technology"
-              },
-              {
-                "name": "visual-studio-code",
-                "type": "technology"
-              },
-              {
-                "name": "Atlassian Confluence",
-                "type": "technology"
-              },
-              {
-                "name": "Atlassian JIRA",
-                "type": "technology"
-              },
-              {
-                "name": "GoogleDocs",
-                "type": "technology"
-              },
-              {
-                "name": "QlikSense",
-                "type": "technology"
+                "name": "ASP.net",
+                "type": "tool"
               }
             ]
           }
@@ -333,22 +742,86 @@
     ]
   },
   "knowledge": {
-    "studies": [
+    "languages": [
       {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Certified Scrum Developer",
-        "startDate": "2017-05-02",
-        "finishDate": "2017-05-12",
-        "institution": {
-          "name": "CNTG",
-          "description": "",
-          "image": {
-            "alt": "CSD_Logo_625_564_Clear.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/26/c2e973e2-52d5-4b45-9071-733f86f7b998_csd_logo_625_564_cle.png"
-          }
-        }
+        "name": "ES",
+        "level": "Native or bilingual proficiency"
       },
+      {
+        "name": "GL",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "EN",
+        "level": "Limited working proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JIRA",
+          "type": "tool",
+          "description": "Administración, configuración y gestión de JIRA."
+        },
+        "level": "high"
+      },
+      {
+        "skill": {
+          "name": "Java",
+          "type": "technology"
+        },
+        "level": "intermediate"
+      },
+      {
+        "skill": {
+          "name": "VueJS",
+          "type": "technology"
+        },
+        "level": "intermediate"
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        },
+        "level": "basic"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Liderazgo",
+          "type": "practice",
+          "description": "Liderar equipos consiguiendo seguir un plan marcado de modo constante, sin provocar estrés ni salidas del equipo."
+        },
+        "level": "basic"
+      },
+      {
+        "skill": {
+          "name": "Ejecución",
+          "type": "practice",
+          "description": "Ser capaz de conseguir que pasen cosas, exigiendo lo necesario de quien debe realizarlas."
+        },
+        "level": "basic"
+      },
+      {
+        "skill": {
+          "name": "Comunicación",
+          "type": "practice",
+          "description": "Comunicar tanto de forma oral como escrita con cierta efectividad."
+        },
+        "level": "expert"
+      },
+      {
+        "skill": {
+          "name": "Empatía",
+          "type": "practice",
+          "description": "Trato de entender a quien tengo enfrente de mi y sus motivaciones."
+        },
+        "level": "expert"
+      }
+    ],
+    "studies": [
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
@@ -361,7 +834,28 @@
           "URL": "https://www.usc.es/",
           "image": {
             "alt": "logo de USC",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/26/fb429ae1-e899-4b32-b60e-ab2c6e4e1775_logo.svg"
+            "link": "https://pro-assets-usc.azureedge.net/cdn/ff/EHM8zctcvgly04lJNuVhK9VdqDepD2xFgACXw8Oszrg/1645011454/:relative:/themes/custom/usc_theme/logo.svg"
+          },
+          "location": {
+            "country": "ES",
+            "region": "Galicia"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Certified Scrum Developer",
+        "description": "Certified Scrum Developer",
+        "startDate": "2017-05-02",
+        "finishDate": "2017-05-12",
+        "institution": {
+          "name": "CNTG",
+          "description": "Centro de Novas Tecnoloxías de Galicia.",
+          "location": {
+            "country": "ES",
+            "region": "Galicia",
+            "municipality": "Santiago de Compostela"
           }
         }
       },
@@ -377,7 +871,11 @@
           "URL": "https://www.iessanclemente.net/",
           "image": {
             "alt": "logo de San Clemente",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/26/27695cf5-dd6b-48fd-96c8-898d4193cdf7_logo.png"
+            "link": "https://www.iessanclemente.net/wp-content/themes/sclemente/img/logo.png"
+          },
+          "location": {
+            "country": "ES",
+            "region": "Galicia"
           }
         }
       }
@@ -391,6 +889,74 @@
           "URL": "https://www.linkedin.com/in/isaacastro/"
         }
       ]
-    }
+    },
+    "status": "notAvailable",
+    "requirements": {
+      "compensation": {
+        "salary": {
+          "currency": "EUR",
+          "from": 50000
+        },
+        "perks": {
+          "mustHave": [
+            "Horario Flexible"
+          ],
+          "niceToHave": [
+            "Seguro Médico",
+            "Clases de Idiomas"
+          ]
+        }
+      },
+      "contractTypes": [
+        "permanent"
+      ],
+      "location": {
+        "remoteOnly": true,
+        "openToRelocate": false,
+        "openToRemote": true,
+        "workingAreas": [
+          {
+            "location": {
+              "country": "ES",
+              "region": "Galicia",
+              "municipality": "Santiago de Compostela"
+            }
+          }
+        ]
+      }
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Agile",
+          "type": "practice",
+          "description": "Gestión ágil"
+        }
+      ],
+      "preferredOrganizations": [
+        "bigCorp",
+        "SME"
+      ],
+      "preferredRoles": [
+        "Software Engineer",
+        "Software Architect",
+        "Team lead"
+      ]
+    },
+    "goals": [
+      {
+        "description": "Me gustaría trabajar en una compañía sin corsés de jerarquía anticuados, que tienda a la horizontalidad, sobre todo comunicativa, y que se escuche a todos."
+      },
+      {
+        "title": "Transparencia",
+        "description": "Es fundamental la transparencia corporativa, todos estamos en un mismo barco y las cosas se deben comunicar a todos, igual no al mismo tiempo, pero si a todo el mundo debe llegar el mismo mensaje. Incluso deben llegar las alternativas barajadas cuando se comunican decisiones, y los razonamientos empleados para llegar a las decisiones."
+      },
+      {
+        "description": "La empresa debe tener objetivos claros, e intentar conseguirlos, pero con los recursos de los que dispone. Si necesita más horas para cumplirlos debe contratar más gente, no forzar a las personas que tiene."
+      },
+      {
+        "description": "Una organización tiene que tener entre sus filas líderes, no jefes, o almenos no sólo jefes. El trabajo de líder debe ser asignado a quien dentro de la orgnización se le tenga como tal por la mayoría de la gente, y propiciará mejor ambiente y mejores resultados que el asignado por jerarquía."
+      }
+    ]
   }
 }
