@@ -340,7 +340,12 @@
         "startDate": "2017-05-02",
         "finishDate": "2017-05-12",
         "institution": {
-          "name": "CNTG"
+          "name": "CNTG",
+          "description": "",
+          "image": {
+            "alt": "CSD_Logo_625_564_Clear.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/26/c2e973e2-52d5-4b45-9071-733f86f7b998_csd_logo_625_564_cle.png"
+          }
         }
       },
       {
