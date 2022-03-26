@@ -308,6 +308,10 @@
                 "type": "technology"
               },
               {
+                "name": "Atlassian",
+                "type": "technology"
+              },
+              {
                 "name": "Google Sheets",
                 "type": "technology"
               }
