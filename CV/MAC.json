@@ -75,56 +75,16 @@
       ],
       "interestingFacts": [
         {
-          "fact": "Desarrollar como sideproject, junto a tres amigos, a petición de una empresa mexicana, el “Planeador Mundo Maya”, una herramienta web para la promoción del “Fin del mundo Maya” en 2012, con puntos de interés turístico y rutas entre ellos."
+          "fact": "Develop as a sideproject, with three friends, requested by a mexican company, the _Planeador Mundo Maya_, a travel planning tool. The main goal was to promote in 2012 the Maya's world, because the event _The end of the world_."
         },
         {
-          "fact": "Colaborar en la organización de un evento anual de un medio de comunicación público con más de 30000 asistentes, organizado con un director del medio y otro colaborador."
+          "fact": "To be part of the organization of an anual event, promoted by a public radio, with more than 30000 people."
         },
         {
-          "fact": "Ser vicepresidente del Colegio Profesional de Ingeniería en Informática de Galicia, organizando diversas actividades para la promoción de las nuevas tecnologías y formaciones"
+          "fact": "To be vicepresident of Professional College of Technical Engineering in Computer Science of Galicia"
         },
         {
-          "fact": "Establecer un forecast del equipo a mi cargo en una compañía con constantes paradas y arranques de proyectos y conseguir que se cumpla."
-        },
-        {
-          "topic": "¿Cuáles son tus principales herramientas de trabajo (IDEs, editores de texto, clientes de correo, Excel...) y cómo las utilizas (plugins, configuraciones, trucos)?",
-          "fact": "Intellij IDEA es mi IDE para desarrollos Java, y me gusta la configuración por defecto, únicamente un par de atajos de teclado que suelo cambiar.\nPara otro tipo de desarrollos como web soy más partidario de Visual Studio Code, al que me gusta tenerle instalados plugins para resaltado de sintaxis de Vue o React, así como plugins para linting. También me he acostumbrado a una fuente específica para el desarollo ([FiraCode](https://github.com/tonsky/FiraCode)), que tiene caracteres más bonitos. Siempre tengo todas las configuraciones sincronizadas con Github. Además de esto el Live Share me parece muy útil para poder trabajar en remoto con compañeros.\nOtra herramienta de cabecera es Postman, para testear o, directamente, consultar APIs REST.\nMe gusta Fork  para la gestión de repositorios pero también uso bastante las integraciones de los IDE, especialmente en Visual Studio Code.\nUtilizo Jira mayormente para la gestión del trabajo y procuro (si bien no siempre lo consigo) tener todos los emails etiquetados y priorizados.\nAdemás, el omnipresente Excel (o Google Sheet) es la herramienta para el forecast del equipo, y en el que me paso alguna que otra hora."
-        },
-        {
-          "topic": "¿Qué recursos online (webs, blogs, apps, foros, etc) usas para ayudarte a desempeñar tu trabajo?",
-          "fact": "Sobre todo uso Twitter para estar al día, donde salen habitualmente los artículos que tendría en mi feed RSS.\nLos problemas técnicos “comunes”, aquellos de lenguajes habituales, suelo acabar en Stackoverflow pero los más específicos, de plataformas como QlikSense o similares, lo habitual es que acabe en foros específicos.\nÚltimamente formo parte de un equipo que trabaja con tecnologías específicas de un banco, que tienen su propio ecosistema, y me entero de sus novedades mediante sus canales."
-        },
-        {
-          "topic": "¿Qué nuevas tecnologías y/o herramientas te llaman especialmente la atención y por qué?",
-          "fact": "En general el mundo DevOps contiene muchos conceptos que me gustaría explorar como modo de dar soporte al desarrollo de sofware. Me llama la atención el mundo Infraestructure as Code, me gustaría ir conociendo poco a poco algo más de este concepto y su aplicación para proyectos más pequeños de lo que estoy acostumbrado a ver.\nEn tecnología más de desarrollo siento curiosidad por los proyectos que con un único lenguaje/framework son capaces de construír toda la arquitectura, por ejemplo NextJS como backend y ReactJS como frontend."
-        },
-        {
-          "topic": "¿Hay alguna empresa tecnológica que te llame la atención por lo bien que lo está haciendo?",
-          "fact": "Hace un tiempo diría que Amazon, con su AWS, pero creo que la propuesta de Microsoft aporta bastante más valor, por lo menos en términos de eficiencia de uso. Me gusta mucho el giro que ha dado para acercarse a la comunidad y los recursos que pone a disposición (obviamente con sus intereses empresariales)"
-        },
-        {
-          "topic": "¿Cómo intentas mantener actualizados tus conocimientos y habilidades profesionales?",
-          "fact": "Mayormente con side projects, bien para aprender (típico programita chorra de cuatro líneas para probar algo nuevo) o bien porque alguien necesita algo para resolver un problema y aprovecho para proponer la solución con algo nuevo que me apetezca probar y encaje. Me gustaría leer más artículos que traten temas en profundidad y no quedarse en los tweets pero se me hace complicado encontrar tiempo."
-        },
-        {
-          "topic": "¿Sueles compartir tu conocimiento por algún canal (posts, foros, contribución a open source, charlas públicas etc)?",
-          "fact": "No tengo por costumbre ser parte visible compartiendo cosas, siempre creo que lo que yo sé está público por ahí y poco puedo aportar."
-        },
-        {
-          "topic": "¿Hay alguna tarea o función que hayas realizado a lo largo de tu carrera profesional de la que te sientas especialmente orgulloso?",
-          "fact": "No hay nada que me encaje en “especialmente orgulloso”, tiendo a encontrar defectos en todo lo que hago en el ámbito profesional que impiden que me encaje en el orgullo, pero si tuviese que buscar algo… visto en perspectiva, cuando era un programador raso en una empresa me encargaron probar una librería gratuíta OCR, yo les intentaba convencer por todos los medios que era mala idea y que mucho mejor optar por las APIs de Microsoft/Google y no me quisieron escuchar… pero años después cuando el producto salió a la luz salió con mi solución.\nAdemás también creo que he conseguido ser un referente en mi actual empresa para mis compañeros, cuando mi jefe por aquel momento estuvo de baja por paternidad me tocó hacer sus labores de gestión de equipo y, a pesar de ser una época de mucho estrés y trabajo conseguimos salir adelante sin que el equipo desapareciese. Más adelante se fué y me quede a cargo del equipo de un modo más formal y creo que lo estoy haciendo razonablemente bien, por lo que me transmiten otros compañeros."
-        },
-        {
-          "topic": "¿Hay alguna tarea o función que hayas realizado a lo largo de tu carrera profesional que te hubiera gustado hacer de otra manera?",
-          "fact": "Muchas, pero recuerdo especialmente un trabajo para el que un profesor de universidad nos “contrató” a cuatro amigos y que pequé de muchísima inexperiencia gestionándolo, provocando un estrés en los compañeros y en mi mismo que no debería haber pasado. Fueron un par de meses muy duros y creo que en gran parte por mi incapacidad para gestionar aquello."
-        },
-        {
-          "topic": "¿Qué cualidades y conocimientos crees que debe tener un buen profesional en tu puesto?",
-          "fact": "Asertividad, básico para poder gestionar hasta donde puedes llegar en el trabajo que te pidan, y honestidad para crear confianza en tu equipo. En cuanto a conocimientos pues es mucho más variable del trabajo del día a día, pero una base de ingeniería de software es básica para construirlo desde cualquier perspectiva."
-        },
-        {
-          "topic": "¿Qué habilidades y valores crees que debería tener un buen líder?",
-          "fact": "Además de demostrar que se preocupa por el equipo y que lo antepondrá a las presiones externas, la empatía para entender a sus compañeros debe ser máxima, y una visión estratégica también."
+          "fact": "Be able to create a work forecast for the team, from scratch, because entire team was working from day to day, in a company with many small projects an different challenges, and be able to accomplish it with my team."
         }
       ]
   },
@@ -133,7 +93,7 @@
       {
         "organization": {
           "name": "SDG Group",
-          "description": "Consultoría data-oriented con departamento de desarrollo de software propio.",
+          "description": "Data-oriented consulting firm",
           "URL": "https://www.sdggroup.com/es",
           "image": {
             "alt": "Logo de SDG",
@@ -154,55 +114,42 @@
             "startDate": "2021-06-01",
             "challenges": [
               {
-                "description": "Team Lead de un equipo de 8 personas de diversa experiencia trabajando en tecnologías y clientes distintos.",
+                "description": "Team Lead managing 8 people in different clients with different technologies and challenges",
                 "actions": [
-                  "Planificación del forecast del equipo",
-                  "Evaluaciones de desempeño de cada miembro",
-                  "Elaboración de planes de carrera personalizados",
-                  "Propuesta de formaciones"
+                  "Work forecast",
+                  "Performance evaluations",
+                  "To build personalization career plans, aligned with people likes and company neeeds"
                 ]
               },
               {
-                "description": "Puesta en marcha de proyectos en un gran cliente con tecnologías no empleadas por el equipo.",
+                "description": "Run projects with unknown techlogies for the team, in a big bank company."
+              },
+              {
+                "description": "To build an internal product to help with dashboards development.",
                 "actions": [
-                  "Mentoring de los miembros del equipo en las tecnologías.",
-                  "Gestión de las expectativas del cliente en cuanto a entregas.",
-                  "Gestión de los errores provocados por arquitecturas de sistemas poco maduros en el cliente"
+                  "Roadmap definition.",
+                  "Implementation",
+                  "Testing."
                 ]
               },
               {
-                "description": "Participación en un producto interno para la generación de cuadros de mando.",
+                "description": "Help the team to get in DevOps culture."
+              },
+              {
+                "description": "To coordinate with consulting area to get requirements, do deployments and generate documentation."
+              },
+              {
+                "description": "Design software architectures."
+              },
+              {
+                "description": "Talent reserach.",
                 "actions": [
-                  "Detección de necesidades en la generación de cuadros de mando.",
-                  "Definición de primer roadmap.",
-                  "Desarrollo de funcionalidades",
-                  "Validación de la implementación de funcionalidades."
+                  "Do interviews",
+                  "Create technical tests"
                 ]
               },
               {
-                "description": "Implantación de la cultura de integración continua y despliegue continuo en el equipo"
-              },
-              {
-                "description": "Coordinación con otras áreas de la empresa para toma de requisitos, implantaciones en cliente, generación de documentación."
-              },
-              {
-                "description": "Diseño de arquitecturas software."
-              },
-              {
-                "description": "Búsqueda de talento .",
-                "actions": [
-                  "Realización de entrevistas",
-                  "Elaboración de pruebas técnicas",
-                  "Validación de pruebas técnicas"
-                ]
-              },
-              {
-                "description": "Apertura de nueva oficina de la compañía en Santiago de Compostela.",
-                "actions": [
-                  "Atención de proveedores",
-                  "Gestión del mantenimiento de la oficina",
-                  "Negociación con los profesionales de cada área como decoración, electricidad, fontanería..."
-                ]
+                "description": "Help with the open of a new office in Santiago de Compostela."
               }
             ],
             "competences": [
@@ -283,7 +230,7 @@
               {
                 "name": "Antonio",
                 "surnames": "Torrado",
-                "title": "Socio de la compañía",
+                "title": "Partner",
                 "contact": {
                   "publicProfiles": [
                     {
@@ -299,7 +246,7 @@
               {
                 "name": "Silvia",
                 "surnames": "Piñeiro",
-                "title": "Software Engineer en la compañía",
+                "title": "Software Engineer",
                 "contact": {
                   "publicProfiles": [
                     {
@@ -320,21 +267,17 @@
             "finishDate": "2021-06-01",
             "challenges": [
               {
-                "description": "Soporte a junior developers.",
-                "actions": [
-                  "Onboarding de nuevas personas en el equipo.",
-                  "Trapaso de conocimientos de proyectos."
-                ]
+                "description": "Support junior developers."
               },
               {
-                "description": "Tomas de requisitos."
+                "description": "Requirements taking."
               },
               {
-                "description": "Desarrollo de proyectos.",
+                "description": "Projects development.",
                 "actions": [
-                  "Estimación de esfuerzos de desarrollo.",
-                  "Codificación de soluciones.",
-                  "Despliegues.",
+                  "Effort estimation.",
+                  "Coding.",
+                  "Deploys.",
                   "Testing."
                 ]
               }
@@ -393,7 +336,7 @@
               {
                 "name": "Fernando Blanco",
                 "surnames": "Torrado",
-                "title": "Responsable del equipo",
+                "title": "Team Lead",
                 "contact": {
                   "publicProfiles": [
                     {
@@ -406,7 +349,7 @@
               {
                 "name": "Miguel",
                 "surnames": "Paniagua",
-                "title": "Software Engineer en la compañía",
+                "title": "Senior Software Engineer",
                 "contact": {
                   "publicProfiles": [
                     {
@@ -427,7 +370,7 @@
             "finishDate": "2020-06-01",
             "challenges": [
               {
-                "description": "Desarrollo de proyectos."
+                "description": "Project development."
               }
             ],
             "competences": [
@@ -539,19 +482,10 @@
             "finishDate": "2018-11-01",
             "challenges": [
               {
-                "description": "Desarrollo de funcionalidades para el portal de clientes de una compañía de telecomunicaciones.",
-                "actions": [
-                  "Análisis de requisitos del cliente",
-                  "Desarrollo de los requisitos",
-                  "Generación de entregables"
-                ]
+                "description": "Develop new requirements in the customer portal to a telecomunications company."
               },
               {
-                "description": "Desarrollo de funcionalidades para aplicaciones móviles para la gestión de infraestructuras ferroviarias en Argentina.",
-                "actions": [
-                  "Desarrollo de los requisitos",
-                  "Formación a técnicos para continuar el proyecto"
-                ]
+                "description": "Develop new requirements in mobile apps for a railway company."
               }
             ],
             "competences": [
@@ -608,13 +542,10 @@
             "finishDate": "2018-02-01",
             "challenges": [
               {
-                "description": "Desarrollo del portal para la gestión del Programa Gallego de Detección Precoz de Cáncer de Colon."
+                "description": "Develop new requirements for a public health portal."
               },
               {
-                "description": "Desarrollo de funcionalidades para el portal de gestión de Anatomía Patológica del Servizo Galego de Saúde."
-              },
-              {
-                "description": "Corrección de bugs y nuevos desarrollos del portal web de la Sociedad Española de Anatomía Patológica."
+                "description": "Bugfixing in a web made with Liferay."
               }
             ],
             "competences": [
@@ -669,7 +600,7 @@
       {
         "organization": {
           "name": "Universidade de Santiago de Compostela",
-          "description": "Universidad pública",
+          "description": "Public university",
           "URL": "https://usc.es/",
           "image": {
             "alt": "Logo de USC",
@@ -686,27 +617,16 @@
         "type": "academicalInstitution",
         "roles": [
           {
-            "name": "Mantenimiento de aulas de informática",
+            "name": "Computer classroom maintenance",
             "startDate": "2010-10-01",
-            "finishDate": "2014-06-01",
-            "challenges": [
-              {
-                "description": "Soporte a los técnicos de las Aulas de Informática de la USC para el mantenimiento de los equipos."
-              },
-              {
-                "description": "Soporte a usuarios de las aulas para tareas ofimáticas."
-              },
-              {
-                "description": "Soporte a docentes."
-              }
-            ]
+            "finishDate": "2014-06-01"
           }
         ]
       },
       {
         "organization": {
           "name": "Creación integral e innovación",
-          "description": "Empresa de desarrollo personal",
+          "description": "Personal development company",
           "location": {
             "country": "ES",
             "region": "Galicia",
@@ -718,15 +638,12 @@
         "type": "SME",
         "roles": [
           {
-            "name": "Desarrollador web en prácticas",
+            "name": "Internship web developer",
             "startDate": "2009-03-01",
             "finishDate": "2009-06-30",
             "challenges": [
               {
-                "description": "Mantenimiento de plataforma de educación a distancia “Moodle”."
-              },
-              {
-                "description": "Desarrollo de landing page para un producto."
+                "description": "Moodle maintenance."
               }
             ],
             "competences": [
@@ -764,7 +681,7 @@
         "skill": {
           "name": "JIRA",
           "type": "tool",
-          "description": "Administración, configuración y gestión de JIRA."
+          "description": "JIRA administration and configuration."
         },
         "level": "high"
       },
@@ -793,42 +710,42 @@
     "softSkills": [
       {
         "skill": {
-          "name": "Liderazgo",
+          "name": "Leadership",
           "type": "practice",
-          "description": "Liderar equipos consiguiendo seguir un plan marcado de modo constante, sin provocar estrés ni salidas del equipo."
+          "description": "Be able to lead a team, following the guidelines and trying to mantain a good environment."
         },
         "level": "basic"
       },
       {
         "skill": {
-          "name": "Ejecución",
+          "name": "Execution",
           "type": "practice",
-          "description": "Ser capaz de conseguir que pasen cosas, exigiendo lo necesario de quien debe realizarlas."
+          "description": "Be able to make things happens, talking with the people in charge of those things."
         },
         "level": "basic"
       },
       {
         "skill": {
-          "name": "Comunicación",
+          "name": "Comunication",
           "type": "practice",
-          "description": "Comunicar tanto de forma oral como escrita con cierta efectividad."
+          "description": "Be able to comunicate (in Spanish or Galician) with effectivity, both written or talked."
         },
-        "level": "expert"
+        "level": "high"
       },
       {
         "skill": {
-          "name": "Empatía",
+          "name": "Empathy",
           "type": "practice",
-          "description": "Trato de entender a quien tengo enfrente de mi y sus motivaciones."
+          "description": "I try to understand the feelings and motivations of the person in front of me."
         },
-        "level": "expert"
+        "level": "high"
       }
     ],
     "studies": [
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Grado en Ingeniería Informática",
+        "name": "Computer Engineering Degree",
         "startDate": "2009-09-15",
         "finishDate": "2015-02-25",
         "institution": {
@@ -869,7 +786,7 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Ciclo Superior en Desarrollo de Aplicaciones Informáticas",
+        "name": "Professional training in computer application development",
         "startDate": "2007-10-01",
         "finishDate": "2009-06-30",
         "institution": {
@@ -906,11 +823,11 @@
         },
         "perks": {
           "mustHave": [
-            "Horario Flexible"
+            "Flexible hours"
           ],
           "niceToHave": [
-            "Seguro Médico",
-            "Clases de Idiomas"
+            "Medical insurance",
+            "Language classes"
           ]
         }
       },
@@ -959,17 +876,17 @@
     },
     "goals": [
       {
-        "description": "Me gustaría trabajar en una compañía sin corsés de jerarquía anticuados, que tienda a la horizontalidad, sobre todo comunicativa, y que se escuche a todos."
+        "description": "I'd like to work in a company where anybody can talk and propose ideas to any other person, no matter what role he/she has."
       },
       {
-        "title": "Transparencia",
-        "description": "Es fundamental la transparencia corporativa, todos estamos en un mismo barco y las cosas se deben comunicar a todos, igual no al mismo tiempo, pero si a todo el mundo debe llegar el mismo mensaje. Incluso deben llegar las alternativas barajadas cuando se comunican decisiones, y los razonamientos empleados para llegar a las decisiones."
+        "title": "Transparency",
+        "description": "Corporate transparency is fundamental. Everybody in a company is on the same boat and decisions should be communicated to every people, and maybe also the alternatives to the decision made."
       },
       {
-        "description": "La empresa debe tener objetivos claros, e intentar conseguirlos, pero con los recursos de los que dispone. Si necesita más horas para cumplirlos debe contratar más gente, no forzar a las personas que tiene."
+        "description": "The objectives of the company must be written and communicated, and must be manageable with the resources that the company has, or the company should get more resources, but always avoiding the exhaustion of people."
       },
       {
-        "description": "Una organización tiene que tener entre sus filas líderes, no jefes, o almenos no sólo jefes. El trabajo de líder debe ser asignado a quien dentro de la orgnización se le tenga como tal por la mayoría de la gente, y propiciará mejor ambiente y mejores resultados que el asignado por jerarquía."
+        "description": "An organization should have leaders, not bosses, or at least not only bosses. Leadership should be assigned to a person with the abilities to generate a good environment to get better results."
       }
     ]
   }
