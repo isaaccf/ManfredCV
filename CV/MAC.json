@@ -2,8 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
     "language": "EN",
-    "MACVersion": "0.3",
-    "lastUpdate": "2022-03-26"
+    "MACVersion": "0.3"
   },
   "aboutMe": {
     "profile": {
@@ -17,441 +16,111 @@
     },
     "relevantLinks": [
       {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/isaacastro/"
+        "type": "github",
+        "URL": "https://github.com/isaaccf"
       },
       {
         "type": "twitter",
         "URL": "https://twitter.com/isaaccf"
       },
       {
-        "type": "github",
-        "URL": "https://github.com/isaaccf"
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/isaacastro/"
       }
-    ],
-    "significativeRelationships": [
-        {
-          "name": "Silvia",
-          "surnames": "Piñeiro",
-          "title": "Software Engineer at SDG Group",
-          "description": "She always know something new in CSS and she give me a realistic point of view.",
-          "contact": {
-            "publicProfiles": [
-              {
-                "type": "linkedin",
-                "URL": "https://www.linkedin.com/in/silvia-pi%C3%B1eiro-fern%C3%A1ndez-b25178aa/"
-              }
-            ]
-          }
-        },
-        {
-          "name": "Fernando",
-          "surnames": "Blanco",
-          "title": "Software Engineer and entrepeneur by nature",
-          "description": "He always know the latest technology in the market and he's always ready to jump in any project.",
-          "contact": {
-            "publicProfiles": [
-              {
-                "type": "linkedin",
-                "URL": "https://www.linkedin.com/in/fernandoblancodosil/"
-              }
-            ]
-          }
-        },
-        {
-          "name": "Mía",
-          "surnames": "Illodo",
-          "title": "Software Architect",
-          "description": "Se's my technical reference to build software architectures with modern technologies.",
-          "contact": {
-            "publicProfiles": [
-              {
-                "type": "linkedin",
-                "URL": "https://www.linkedin.com/in/miaillodo/"
-              }
-            ]
-          }
-        }
-      ],
-      "interestingFacts": [
-        {
-          "fact": "Develop as a sideproject, with three friends, requested by a mexican company, the _Planeador Mundo Maya_, a travel planning tool. The main goal was to promote in 2012 the Maya's world, because the event _The end of the world_."
-        },
-        {
-          "fact": "To be part of the organization of an anual event, promoted by a public radio, with more than 30000 people."
-        },
-        {
-          "fact": "To be vicepresident of Professional College of Technical Engineering in Computer Science of Galicia"
-        },
-        {
-          "fact": "Be able to create a work forecast for the team, from scratch, because entire team was working from day to day, in a company with many small projects an different challenges, and be able to accomplish it with my team."
-        }
-      ]
+    ]
   },
   "experience": {
     "jobs": [
       {
         "organization": {
           "name": "SDG Group",
-          "description": "Data-oriented consulting firm",
-          "URL": "https://www.sdggroup.com/es",
           "image": {
             "alt": "Logo de SDG",
-            "link": "https://pbs.twimg.com/profile_images/986276982693531654/ALKIdUml_400x400.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/71956a4c-56bd-4d91-a3b7-01a39cf35434_alkiduml_400x400.jpg"
           },
-          "location": {
-            "country": "ES",
-            "region": "Galicia",
-            "municipality": "Santiago de Compostela",
-            "postalCode": "15701",
-            "address": "Travesa da Poza, 4"
-          }
+          "URL": "https://www.sdggroup.com/es"
         },
-        "type": "bigCorp",
         "roles": [
           {
             "name": "Specialist",
             "startDate": "2021-06-01",
             "challenges": [
               {
-                "description": "Team Lead managing 8 people in different clients with different technologies and challenges",
-                "actions": [
-                  "Work forecast",
-                  "Performance evaluations",
-                  "To build personalization career plans, aligned with people likes and company neeeds"
-                ]
-              },
-              {
-                "description": "Run projects with unknown techlogies for the team, in a big bank company."
-              },
-              {
-                "description": "To build an internal product to help with dashboards development.",
-                "actions": [
-                  "Roadmap definition.",
-                  "Implementation",
-                  "Testing."
-                ]
-              },
-              {
-                "description": "Help the team to get in DevOps culture."
-              },
-              {
-                "description": "To coordinate with consulting area to get requirements, do deployments and generate documentation."
-              },
-              {
-                "description": "Design software architectures."
-              },
-              {
-                "description": "Talent reserach.",
-                "actions": [
-                  "Do interviews",
-                  "Create technical tests"
-                ]
-              },
-              {
-                "description": "Help with the open of a new office in Santiago de Compostela."
+                "description": "Team Lead managing 8 people in different clients with different technologies and challenges"
               }
             ],
             "competences": [
               {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
                 "name": "Atlassian Confluence",
-                "type": "tool"
+                "type": "technology"
               },
               {
                 "name": "Atlassian JIRA",
-                "type": "tool"
-              },
-              {
-                "name": "GitHub",
-                "type": "tool"
-              },
-              {
-                "name": "BitBucket",
-                "type": "tool"
-              },
-              {
-                "name": "AWS",
-                "type": "tool"
+                "type": "technology"
               },
               {
                 "name": "Azure",
-                "type": "tool"
+                "type": "technology"
+              },
+              {
+                "name": "Bitbucket",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
+                "name": "Google Sheets",
+                "type": "technology"
               },
               {
                 "name": "GoogleDocs",
-                "type": "tool"
-              },
-              {
-                "name": "GoogleSheets",
-                "type": "tool"
-              },
-              {
-                "name": "VisualStudio Code",
-                "type": "tool"
-              },
-              {
-                "name": "IntelliJ Idea",
-                "type": "tool"
+                "type": "technology"
               },
               {
                 "name": "Jenkins",
-                "type": "tool"
+                "type": "technology"
               },
               {
                 "name": "QlikSense",
-                "type": "tool"
-              },
-              {
-                "name": "Tableau",
-                "type": "tool"
+                "type": "technology"
               },
               {
                 "name": "React",
                 "type": "technology"
               },
               {
-                "name": "Git",
+                "name": "Spring Boot",
                 "type": "technology"
-              },
-              {
-                "name": "VueJS",
-                "type": "technology"
-              },
-              {
-                "name": "CSS",
-                "type": "technology"
-              },
-              {
-                "name": "SpringBoot",
-                "type": "technology"
-              }
-            ],
-            "referrals": [
-              {
-                "name": "Antonio",
-                "surnames": "Torrado",
-                "title": "Partner",
-                "contact": {
-                  "publicProfiles": [
-                    {
-                      "type": "linkedin",
-                      "URL": "https://www.linkedin.com/in/antoniotorrado/"
-                    }
-                  ],
-                  "contactMails": [
-                    "antonio.torrado@sdggroup.com"
-                  ]
-                }
-              },
-              {
-                "name": "Silvia",
-                "surnames": "Piñeiro",
-                "title": "Software Engineer",
-                "contact": {
-                  "publicProfiles": [
-                    {
-                      "type": "linkedin",
-                      "URL": "https://www.linkedin.com/in/silvia-pi%C3%B1eiro-fern%C3%A1ndez-b25178aa//"
-                    }
-                  ],
-                  "contactMails": [
-                    "silvia.pineiro@sdggroup.com"
-                  ]
-                }
-              }
-            ]
-          },
-          {
-            "name": "Senior Developer",
-            "startDate": "2020-06-01",
-            "finishDate": "2021-06-01",
-            "challenges": [
-              {
-                "description": "Support junior developers."
-              },
-              {
-                "description": "Requirements taking."
-              },
-              {
-                "description": "Projects development.",
-                "actions": [
-                  "Effort estimation.",
-                  "Coding.",
-                  "Deploys.",
-                  "Testing."
-                ]
-              }
-            ],
-            "competences": [
-              {
-                "name": "Atlassian Confluence",
-                "type": "tool"
-              },
-              {
-                "name": "Atlassian JIRA",
-                "type": "tool"
-              },
-              {
-                "name": "BitBucket",
-                "type": "tool"
-              },
-              {
-                "name": "AWS",
-                "type": "tool"
-              },
-              {
-                "name": "VisualStudio Code",
-                "type": "tool"
-              },
-              {
-                "name": "IntelliJ Idea",
-                "type": "tool"
-              },
-              {
-                "name": "QlikSense",
-                "type": "tool"
               },
               {
                 "name": "Tableau",
-                "type": "tool"
-              },
-              {
-                "name": "Git",
                 "type": "technology"
               },
               {
-                "name": "VueJS",
+                "name": "Vue",
                 "type": "technology"
               },
               {
-                "name": "CSS",
+                "name": "intellij-idea",
                 "type": "technology"
               },
               {
-                "name": "SpringBoot",
+                "name": "visual-studio-code",
                 "type": "technology"
-              }
-            ],
-            "referrals": [
-              {
-                "name": "Fernando Blanco",
-                "surnames": "Torrado",
-                "title": "Team Lead",
-                "contact": {
-                  "publicProfiles": [
-                    {
-                      "type": "linkedin",
-                      "URL": "https://www.linkedin.com/in/fernandoblancodosil/"
-                    }
-                  ]
-                }
-              },
-              {
-                "name": "Miguel",
-                "surnames": "Paniagua",
-                "title": "Senior Software Engineer",
-                "contact": {
-                  "publicProfiles": [
-                    {
-                      "type": "linkedin",
-                      "URL": "https://www.linkedin.com/in/miguel-paniagua-fern%C3%A1ndez-70a84655/"
-                    }
-                  ],
-                  "contactMails": [
-                    "miguel.paniagua@sdggroup.com"
-                  ]
-                }
-              }
-            ]
-          },
-          {
-            "name": "Developer",
-            "startDate": "2018-11-18",
-            "finishDate": "2020-06-01",
-            "challenges": [
-              {
-                "description": "Project development."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Atlassian Confluence",
-                "type": "tool"
-              },
-              {
-                "name": "Atlassian JIRA",
-                "type": "tool"
-              },
-              {
-                "name": "BitBucket",
-                "type": "tool"
-              },
-              {
-                "name": "AWS",
-                "type": "tool"
-              },
-              {
-                "name": "VisualStudio Code",
-                "type": "tool"
-              },
-              {
-                "name": "QlikSense",
-                "type": "tool"
-              },
-              {
-                "name": "Tableau",
-                "type": "tool"
-              },
-              {
-                "name": "IntelliJ Idea",
-                "type": "tool"
-              },
-              {
-                "name": "Git",
-                "type": "technology"
-              },
-              {
-                "name": "VueJS",
-                "type": "technology"
-              },
-              {
-                "name": "CSS",
-                "type": "technology"
-              },
-              {
-                "name": "SpringBoot",
-                "type": "technology"
-              }
-            ],
-            "referrals": [
-              {
-                "name": "Fernando Blanco",
-                "surnames": "Torrado",
-                "title": "Responsable del equipo",
-                "contact": {
-                  "publicProfiles": [
-                    {
-                      "type": "linkedin",
-                      "URL": "https://www.linkedin.com/in/fernandoblancodosil/"
-                    }
-                  ]
-                }
-              },
-              {
-                "name": "Miguel",
-                "surnames": "Paniagua",
-                "title": "Software Engineer en la compañía",
-                "contact": {
-                  "publicProfiles": [
-                    {
-                      "type": "linkedin",
-                      "URL": "https://www.linkedin.com/in/miguel-paniagua-fern%C3%A1ndez-70a84655/"
-                    }
-                  ],
-                  "contactMails": [
-                    "miguel.paniagua@sdggroup.com"
-                  ]
-                }
               }
             ]
           }
@@ -460,21 +129,12 @@
       {
         "organization": {
           "name": "Dimensiona Consultoría Tecnolóxica ",
-          "description": "Consultora de software.",
-          "URL": "https://www.dimensiona.com/",
           "image": {
             "alt": "Logo de Dimensiona",
-            "link": "https://www.dimensiona.com/wp-content/uploads/2020/07/imagotipo-dimensiona-90px.svg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/49223892-e0d9-4d59-89ee-e45d0e4a31b7_imagotipo-dimensiona.svg"
           },
-          "location": {
-            "country": "ES",
-            "region": "Galicia",
-            "municipality": "Santiago de Compostela",
-            "postalCode": "15707",
-            "address": "Praza de Europa 10A, planta 5"
-          }
+          "URL": "https://www.dimensiona.com/"
         },
-        "type": "SME",
         "roles": [
           {
             "name": "Desarrollador web",
@@ -483,26 +143,11 @@
             "challenges": [
               {
                 "description": "Develop new requirements in the customer portal to a telecomunications company."
-              },
-              {
-                "description": "Develop new requirements in mobile apps for a railway company."
               }
             ],
             "competences": [
               {
-                "name": "MantisBT",
-                "type": "tool"
-              },
-              {
-                "name": "Subversion",
-                "type": "tool"
-              },
-              {
-                "name": "NetBeans",
-                "type": "tool"
-              },
-              {
-                "name": "jQuery",
+                "name": "CSS",
                 "type": "technology"
               },
               {
@@ -510,7 +155,19 @@
                 "type": "technology"
               },
               {
-                "name": "CSS",
+                "name": "MantisBT",
+                "type": "technology"
+              },
+              {
+                "name": "Netbeans",
+                "type": "technology"
+              },
+              {
+                "name": "Subversion",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
                 "type": "technology"
               }
             ]
@@ -520,21 +177,12 @@
       {
         "organization": {
           "name": "Bahía Software",
-          "description": "Consultora de software",
-          "URL": "https://bahiasoftware.es/home/",
           "image": {
             "alt": "Logo de Bahía Software",
-            "link": "https://bahiasoftware.es/fotos/1594281695_yD24.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/a3990a0d-2288-494e-a8e3-196bdbfaf338_1594281695_yd24.png"
           },
-          "location": {
-            "country": "ES",
-            "region": "Galicia",
-            "municipality": "Milladoiro (Ames)",
-            "postalCode": "15707",
-            "address": "Rúa das Hedras 4, Local 1"
-          }
+          "URL": "https://bahiasoftware.es/home/"
         },
-        "type": "bigCorp",
         "roles": [
           {
             "name": "Desarrollador web",
@@ -543,38 +191,27 @@
             "challenges": [
               {
                 "description": "Develop new requirements for a public health portal."
-              },
-              {
-                "description": "Bugfixing in a web made with Liferay."
               }
             ],
             "competences": [
               {
-                "name": "Jira",
-                "type": "tool"
+                "name": "CSS",
+                "type": "technology"
               },
               {
                 "name": "Git",
-                "type": "tool"
-              },
-              {
-                "name": "NetBeans",
-                "type": "tool"
-              },
-              {
-                "name": "IntelliJ Idea",
-                "type": "tool"
-              },
-              {
-                "name": "jQuery",
                 "type": "technology"
               },
               {
-                "name": "Struts",
+                "name": "Jira",
                 "type": "technology"
               },
               {
-                "name": "Spring",
+                "name": "LifeRay",
+                "type": "technology"
+              },
+              {
+                "name": "Netbeans",
                 "type": "technology"
               },
               {
@@ -586,11 +223,19 @@
                 "type": "technology"
               },
               {
-                "name": "Liferay",
+                "name": "Spring",
                 "type": "technology"
               },
               {
-                "name": "CSS",
+                "name": "Struts",
+                "type": "technology"
+              },
+              {
+                "name": "intellij-idea",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
                 "type": "technology"
               }
             ]
@@ -600,21 +245,12 @@
       {
         "organization": {
           "name": "Universidade de Santiago de Compostela",
-          "description": "Public university",
-          "URL": "https://usc.es/",
           "image": {
             "alt": "Logo de USC",
-            "link": "https://pro-assets-usc.azureedge.net/cdn/ff/EHM8zctcvgly04lJNuVhK9VdqDepD2xFgACXw8Oszrg/1645011454/:relative:/themes/custom/usc_theme/logo.svg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/aec2d516-7b69-4ebc-95b2-bf2b6448e25b_logo.svg"
           },
-          "location": {
-            "country": "ES",
-            "region": "Galicia",
-            "municipality": "Santiago de Compostela",
-            "postalCode": "15701",
-            "address": "Praza do Obradoiro"
-          }
+          "URL": "https://usc.es/"
         },
-        "type": "academicalInstitution",
         "roles": [
           {
             "name": "Computer classroom maintenance",
@@ -625,17 +261,8 @@
       },
       {
         "organization": {
-          "name": "Creación integral e innovación",
-          "description": "Personal development company",
-          "location": {
-            "country": "ES",
-            "region": "Galicia",
-            "municipality": "Santiago de Compostela",
-            "postalCode": "15701",
-            "address": "Santiago de Chile 13"
-          }
+          "name": "Creación integral e innovación"
         },
-        "type": "SME",
         "roles": [
           {
             "name": "Internship web developer",
@@ -648,12 +275,12 @@
             ],
             "competences": [
               {
-                "name": "Moodle",
-                "type": "tool"
+                "name": "ASP.net",
+                "type": "technology"
               },
               {
-                "name": "ASP.net",
-                "type": "tool"
+                "name": "Moodle",
+                "type": "technology"
               }
             ]
           }
@@ -664,84 +291,92 @@
   "knowledge": {
     "languages": [
       {
-        "name": "ES",
-        "level": "Native or bilingual proficiency"
+        "name": "English"
       },
       {
-        "name": "GL",
-        "level": "Native or bilingual proficiency"
+        "name": "Galician"
       },
       {
-        "name": "EN",
-        "level": "Limited working proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "JIRA",
-          "type": "tool",
-          "description": "JIRA administration and configuration."
-        },
-        "level": "high"
+          "name": "JAVA",
+          "type": "technology"
+        }
       },
       {
         "skill": {
-          "name": "Java",
+          "name": "JavaScript",
           "type": "technology"
-        },
-        "level": "intermediate"
-      },
-      {
-        "skill": {
-          "name": "VueJS",
-          "type": "technology"
-        },
-        "level": "intermediate"
+        }
       },
       {
         "skill": {
           "name": "React",
           "type": "technology"
-        },
-        "level": "basic"
-      }
-    ],
-    "softSkills": [
-      {
-        "skill": {
-          "name": "Leadership",
-          "type": "practice",
-          "description": "Be able to lead a team, following the guidelines and trying to mantain a good environment."
-        },
-        "level": "basic"
+        }
       },
       {
         "skill": {
-          "name": "Execution",
-          "type": "practice",
-          "description": "Be able to make things happens, talking with the people in charge of those things."
-        },
-        "level": "basic"
+          "name": "Vue",
+          "type": "technology"
+        }
       },
       {
         "skill": {
-          "name": "Comunication",
-          "type": "practice",
-          "description": "Be able to comunicate (in Spanish or Galician) with effectivity, both written or talked."
-        },
-        "level": "high"
+          "name": "Jenkins",
+          "type": "technology"
+        }
       },
       {
         "skill": {
-          "name": "Empathy",
-          "type": "practice",
-          "description": "I try to understand the feelings and motivations of the person in front of me."
-        },
-        "level": "high"
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SonarQube",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Atlassian",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Certified Scrum Developer",
+        "startDate": "2017-05-02",
+        "finishDate": "2017-05-12",
+        "institution": {
+          "name": "CNTG",
+          "image": {
+            "alt": "logo de CSD",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/daa83d6f-d5e3-4348-9b9d-e61381efcdde_csd_logo_625_564_cle.png"
+          }
+        }
+      },
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
@@ -754,32 +389,7 @@
           "URL": "https://www.usc.es/",
           "image": {
             "alt": "logo de USC",
-            "link": "https://pro-assets-usc.azureedge.net/cdn/ff/EHM8zctcvgly04lJNuVhK9VdqDepD2xFgACXw8Oszrg/1645011454/:relative:/themes/custom/usc_theme/logo.svg"
-          },
-          "location": {
-            "country": "ES",
-            "region": "Galicia"
-          }
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Certified Scrum Developer",
-        "description": "Certified Scrum Developer",
-        "startDate": "2017-05-02",
-        "finishDate": "2017-05-12",
-        "institution": {
-          "name": "CNTG",
-          "description": "Centro de Novas Tecnoloxías de Galicia.",
-          "image": {
-            "alt": "logo de CSD",
-            "link": "https://scrumadventures.com/wp-content/uploads/2020/08/CSD_Logo_625_564_Clear.png"
-          },
-          "location": {
-            "country": "ES",
-            "region": "Galicia",
-            "municipality": "Santiago de Compostela"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/d07803ab-f404-4ef2-ac6f-89bbfdd8c22b_logo.svg"
           }
         }
       },
@@ -795,11 +405,7 @@
           "URL": "https://www.iessanclemente.net/",
           "image": {
             "alt": "logo de San Clemente",
-            "link": "https://www.iessanclemente.net/wp-content/themes/sclemente/img/logo.png"
-          },
-          "location": {
-            "country": "ES",
-            "region": "Galicia"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/0a9e7245-361b-4083-b24f-d6dd9f5e6545_logo.png"
           }
         }
       }
@@ -814,45 +420,10 @@
         }
       ]
     },
-    "status": "notAvailable",
-    "requirements": {
-      "compensation": {
-        "salary": {
-          "currency": "EUR",
-          "from": 50000
-        },
-        "perks": {
-          "mustHave": [
-            "Flexible hours"
-          ],
-          "niceToHave": [
-            "Medical insurance",
-            "Language classes"
-          ]
-        }
-      },
-      "contractTypes": [
-        "permanent"
-      ],
-      "location": {
-        "remoteOnly": true,
-        "openToRelocate": false,
-        "openToRemote": true,
-        "workingAreas": [
-          {
-            "location": {
-              "country": "ES",
-              "region": "Galicia",
-              "municipality": "Santiago de Compostela"
-            }
-          }
-        ]
-      }
-    },
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "Vue",
+          "name": "Jira",
           "type": "technology"
         },
         {
@@ -860,34 +431,10 @@
           "type": "technology"
         },
         {
-          "name": "Jira",
-          "type": "tool"
+          "name": "Vue",
+          "type": "technology"
         }
-      ],
-      "preferredOrganizations": [
-        "bigCorp",
-        "SME"
-      ],
-      "preferredRoles": [
-        "Software Engineer",
-        "Software Architect",
-        "Team lead"
       ]
-    },
-    "goals": [
-      {
-        "description": "I'd like to work in a company where anybody can talk and propose ideas to any other person, no matter what role he/she has."
-      },
-      {
-        "title": "Transparency",
-        "description": "Corporate transparency is fundamental. Everybody in a company is on the same boat and decisions should be communicated to every people, and maybe also the alternatives to the decision made."
-      },
-      {
-        "description": "The objectives of the company must be written and communicated, and must be manageable with the resources that the company has, or the company should get more resources, but always avoiding the exhaustion of people."
-      },
-      {
-        "description": "An organization should have leaders, not bosses, or at least not only bosses. Leadership should be assigned to a person with the abilities to generate a good environment to get better results."
-      }
-    ]
+    }
   }
 }
