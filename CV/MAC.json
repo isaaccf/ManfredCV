@@ -43,23 +43,15 @@
         "roles": [
           {
             "name": "Specialist",
-            "startDate": "2021-06-01",
+            "startDate": "2018-11-01",
             "challenges": [
               {
-                "description": "Team Lead managing 8 people in different clients with different technologies and challenges"
+                "description": "Team Lead managing 10 people that works in bank and telco clients. We work with technologies like VueJS, React and Java, using differents infraestructures like Azure, AWS or custom clouds, using Continous Integration/Continous Deployment.\nMy role is to help them to assure the quality of our software, and also to develop some projects by my own."
               }
             ],
             "competences": [
               {
                 "name": "AWS",
-                "type": "technology"
-              },
-              {
-                "name": "Atlassian Confluence",
-                "type": "technology"
-              },
-              {
-                "name": "Atlassian JIRA",
                 "type": "technology"
               },
               {
@@ -87,15 +79,7 @@
                 "type": "technology"
               },
               {
-                "name": "GoogleDocs",
-                "type": "technology"
-              },
-              {
                 "name": "Jenkins",
-                "type": "technology"
-              },
-              {
-                "name": "QlikSense",
                 "type": "technology"
               },
               {
@@ -112,14 +96,6 @@
               },
               {
                 "name": "Vue",
-                "type": "technology"
-              },
-              {
-                "name": "intellij-idea",
-                "type": "technology"
-              },
-              {
-                "name": "visual-studio-code",
                 "type": "technology"
               }
             ]
