@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -9,9 +9,12 @@
       "name": "Isaac",
       "surnames": "Castro Fuentes",
       "title": "Software engineer",
-      "description": "I studied in Santiago de Compostela the old _Professional training in computer application development_. After that, and despite the opportunity to join a job, I decided to start the Computer Engineering Degree.\nMy firt job as a software engineer (I had another internships before, managing a eLearning platform and helping to mantain computer rooms at the univeristy) in a consulting firm call Bahía Software, where I had been for three years, mostly working with Java (Spring+Hibernate) and HTML/CSS/jQuery. After that I joined a small consulting firm (we were about 12 people) working with the same stack and during a few weeks helping with Xamarin to develop a stock control application for a railway company.\nAfter 10 months I jump in my current company, SDG Group. I'm here almost 4 years, working with VueJS, React and Java, integrating BI suites (mostly QlikSense and Tableau, with their JS APIs) and REST APIs. I'm little most interested in front and I don't care a lot about the framework.\nIn the last months, in addition to work as a software architect, mainly in a bank environment, I'm working as a team lead helping 10 people, in the right way, at least for the feedback I received lastly.\nI'm also interested in DevOps and I'm trying to improve this practices in my team.",
+      "description": "",
       "location": {
-        "notes": "Santiago de Compostela"
+        "country": "España",
+        "region": "Galicia",
+        "municipality": "Santiago de Compostela",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -231,7 +234,12 @@
           {
             "name": "Computer classroom maintenance",
             "startDate": "2010-10-01",
-            "finishDate": "2014-06-01"
+            "finishDate": "2014-06-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
           }
         ]
       },
@@ -267,22 +275,19 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Galician"
+        "name": "Galician",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
-      {
-        "skill": {
-          "name": "JAVA",
-          "type": "technology"
-        }
-      },
       {
         "skill": {
           "name": "JavaScript",
@@ -303,19 +308,7 @@
       },
       {
         "skill": {
-          "name": "Jenkins",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Docker",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Spring Boot",
+          "name": "JAVA",
           "type": "technology"
         }
       },
@@ -327,13 +320,31 @@
       },
       {
         "skill": {
+          "name": "Jenkins",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "SonarQube",
           "type": "technology"
         }
       },
       {
         "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Atlassian",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Boot",
           "type": "technology"
         }
       }
@@ -347,6 +358,7 @@
         "finishDate": "2017-05-12",
         "institution": {
           "name": "CNTG",
+          "description": "",
           "image": {
             "alt": "logo de CSD",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/daa83d6f-d5e3-4348-9b9d-e61381efcdde_csd_logo_625_564_cle.png"
@@ -410,7 +422,13 @@
           "name": "Vue",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Frontend Developer",
+        "Full-stack Developer",
+        "Software Architect"
       ]
-    }
+    },
+    "status": "searchingActively"
   }
 }
