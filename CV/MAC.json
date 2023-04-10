@@ -71,6 +71,7 @@
           {
             "name": "Specialist",
             "startDate": "2018-11-01",
+            "finishDate": "2022-10-01",
             "challenges": [
               {
                 "description": "Team Lead managing 10 people that works in bank and telco clients. We work with technologies like VueJS, React and Java, using differents infraestructures like Azure, AWS or custom clouds, using Continous Integration/Continous Deployment.\nMy role is to help them to assure the quality of our software, and also to develop some projects by my own."
