@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -13,8 +13,7 @@
       "location": {
         "country": "España",
         "region": "Galicia",
-        "municipality": "Santiago de Compostela",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Santiago de Compostela"
       }
     },
     "relevantLinks": [
@@ -34,6 +33,31 @@
   },
   "experience": {
     "jobs": [
+      {
+        "organization": {
+          "name": "Whalar",
+          "image": {
+            "alt": "whalar-squareLogo-1659639764157.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/10/d02623f0-1bd3-4b84-8c23-7e7d2d86331e_whalar-squarelogo-16.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Frontend Software Engineer",
+            "startDate": "2022-10-01",
+            "competences": [
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
       {
         "organization": {
           "name": "SDG Group",
@@ -234,12 +258,7 @@
           {
             "name": "Computer classroom maintenance",
             "startDate": "2010-10-01",
-            "finishDate": "2014-06-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ]
+            "finishDate": "2014-06-01"
           }
         ]
       },
@@ -275,16 +294,13 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Professional working proficiency"
+        "name": "English"
       },
       {
-        "name": "Galician",
-        "level": "Native or bilingual proficiency"
+        "name": "Galician"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -358,7 +374,6 @@
         "finishDate": "2017-05-12",
         "institution": {
           "name": "CNTG",
-          "description": "",
           "image": {
             "alt": "logo de CSD",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/daa83d6f-d5e3-4348-9b9d-e61381efcdde_csd_logo_625_564_cle.png"
@@ -428,7 +443,6 @@
         "Full-stack Developer",
         "Software Architect"
       ]
-    },
-    "status": "searchingActively"
+    }
   }
 }
