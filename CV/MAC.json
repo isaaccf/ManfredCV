@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -16,7 +16,21 @@
         "region": "Galicia",
         "municipality": "Santiago de Compostela"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/isaacastro/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/isaaccf"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/isaaccf"
+      }
+    ]
   },
   "experience": {
     "jobs": [
@@ -146,10 +160,6 @@
                 "type": "technology"
               },
               {
-                "name": "MantisBT",
-                "type": "technology"
-              },
-              {
                 "name": "Netbeans",
                 "type": "technology"
               },
@@ -198,19 +208,11 @@
                 "type": "technology"
               },
               {
-                "name": "LifeRay",
+                "name": "Liferay",
                 "type": "technology"
               },
               {
                 "name": "Netbeans",
-                "type": "technology"
-              },
-              {
-                "name": "OracleDB",
-                "type": "technology"
-              },
-              {
-                "name": "Pentaho reporting",
                 "type": "technology"
               },
               {
@@ -219,10 +221,6 @@
               },
               {
                 "name": "Struts",
-                "type": "technology"
-              },
-              {
-                "name": "intellij-idea",
                 "type": "technology"
               },
               {
@@ -283,14 +281,17 @@
     "languages": [
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Professional working proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       },
       {
         "name": "GL",
+        "fullName": "Gallego",
         "level": "Native or bilingual proficiency"
       }
     ],
@@ -309,7 +310,7 @@
       },
       {
         "skill": {
-          "name": "JAVA",
+          "name": "Java",
           "type": "technology"
         }
       },
@@ -439,15 +440,6 @@
         {
           "URL": "https://twitter.com/isaaccf",
           "type": "twitter"
-        }
-      ],
-      "contactMails": [
-        "isaac@isaaccastro.eu"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "620504343",
-          "countryCode": "+34"
         }
       ]
     },
